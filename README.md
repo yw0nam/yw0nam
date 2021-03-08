@@ -17,7 +17,7 @@
 * **📚: Languages**: Python, C, R, Matlab  
 * **📦: Framework**: Tensorflow, Keras, Pytorch  
 * **🚀: Dev IDE**: Anaconda jupyter, VSCode
-* **🔨: Tools**: Git, Github, Window, Linux()
+* **🔨: Tools**: Git, Github, Window, Linux(prefer)
 
 
 [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinho-study.tistory.com//)](https://medium.com/@yw_nam) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho-kim-a08452191/)](https://www.linkedin.com/in/young-woo-nam-592a83195/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlfhgk62@gmail.com)](mailto:spow2544@gmail.com)
