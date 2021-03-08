@@ -10,13 +10,12 @@
 * I'm Studying for Master degree at Sungkyunkwan University
 
 #### ✨ SoftWare  
--->
 * **📚: Languages**: Python, C, R, Matlab  
 * **📦: Framework**: Tensorflow, Keras, Pytorch  
 * **🚀: Dev IDE**: Anaconda jupyter, VSCode
 * **🔨: Tools**: Git, Github, Window, Linux()
 
-<!--
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yw0nam&count_private=true&show_icons=true" />
 </a>
