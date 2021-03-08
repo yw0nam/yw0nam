@@ -11,7 +11,7 @@
 ### 🚀 i'm interested in deep Learning especially Self-Supervised Learning, GAN, NLP
 ### 🎓 Education  
 * Graduated in Dept. of Electronics Engineering, Incheon National University (2017.03 ~ 2021. 03)  
-* I'm Studying for Master degree at Sungkyunkwan University
+* Studying for Master degree at Sungkyunkwan University (2021. 03 ~ 2023. 03)
 
 #### ✨ SoftWare  
 * **📚: Languages**: Python, C, R, Matlab  
