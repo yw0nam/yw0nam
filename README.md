@@ -8,7 +8,7 @@
 </a>
 
 ### 🔭 I'm working on Samsung Medical Center
-### 🚀 i'm interested in depp Learning especially Self-Supervised Learning, GAN, NLP
+### 🚀 i'm interested in deep Learning especially Self-Supervised Learning, GAN, NLP
 ### 🎓 Education  
 * Graduated in Dept. of Electronics Engineering, Incheon National University (2017.03 ~ 2021. 03)  
 * I'm Studying for Master degree at Sungkyunkwan University
