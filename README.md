@@ -7,7 +7,7 @@
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yw0nam&layout=compact" />
 </a>
 
-### 🔭 I'm working on Samsung Medical Center
+### 🔭 I'm working on I-BRICKS
 ### 🚀 i'm interested in deep Learning especially Speech, NLG
 ### 🎓 Education  
 * Graduated in Dept. of Electronics Engineering, Incheon National University (2017.03 ~ 2021. 03)  
