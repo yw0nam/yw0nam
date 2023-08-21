@@ -8,7 +8,7 @@
 </a>
 
 ### 🔭 I'm working on I-BRICKS
-### 🚀 i'm interested in deep Learning especially Speech, NLG
+### 🚀 My research Topic is LLM, ASR, TTS and generated models
 ### 🎓 Education  
 
 * Graduated with a Bachelor's degree at Dept. of Electronics Engineering, from Incheon National University (March 2017 ~ March 2021)  
