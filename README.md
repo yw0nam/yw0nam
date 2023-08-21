@@ -11,7 +11,6 @@
 ### 🚀 i'm interested in deep Learning especially Speech, NLG
 ### 🎓 Education  
 
-bachelor's degree
 * Graduated with a Bachelor's degree at Dept. of Electronics Engineering, from Incheon National University (March 2017 ~ March 2021)  
 * Graduated with a Master's degree at Dept. of Digital Healthcare, from Sungkyunkwan University (March 2021 ~ March 2023)
 
