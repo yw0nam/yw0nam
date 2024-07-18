@@ -1,4 +1,5 @@
-# Young Woo Nam's Github[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyw0nam)](https://hits.seeyoufarm.com)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yw0nam&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=yw0nam" alt="hiyouga" />
 # YoungWoo Nam
 
 *AI Researcher*
