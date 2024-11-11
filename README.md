@@ -17,9 +17,9 @@ LLM, ASR, TTS
 Skills 
 
 - Natural Language: Korean (Native); English (TEPS-347); Japanese (JLPT-N2)
-- Programming Language: **Python**; SQL; MATLAB; C;
+- Programming Language: **Python**; SQL; C;
 - Typesetting Language: **Markdown**; LaTeX;
-- Programming Framework: **PyTorch**; TensorFlow
+- AI Programming Framework: **PyTorch**; TensorFlow
 
 [![Blog](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=githubpages&link=https://jinho-study.tistory.com//)](https://yw0nam.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho-kim-a08452191/)](https://www.linkedin.com/in/young-woo-nam-592a83195/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlfhgk62@gmail.com)](mailto:spow2544@gmail.com)
 <br></br>  
