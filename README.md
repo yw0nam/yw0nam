@@ -3,7 +3,7 @@
 
 # YoungWoo Nam
 
-*AI Researcher*
+*AI Researcher and AI Engineer*
 
 I-BRICKS
 # 🎓 Education  
