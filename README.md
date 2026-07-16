@@ -16,7 +16,7 @@ LLM, ASR, TTS
 
 Skills 
 
-- Natural Language: Korean (Native); English (TEPS-338); Japanese (JLPT-N2)
+- Natural Language: Korean (Native), English(Buiness level), Japanese (JLPT-N1)
 - Programming Language: **Python**; SQL; C;
 - Typesetting Language: **Markdown**; LaTeX;
 - AI Programming Framework: **PyTorch**; TensorFlow
