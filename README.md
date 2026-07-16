@@ -1,11 +1,11 @@
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yw0nam&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-<img align="center" src="https://komarev.com/ghpvc/?username=yw0nam" alt="hiyouga" />
-
 # YoungWoo Nam
 
 *AI Researcher and AI Engineer*
 
-I-BRICKS
+<img align="center" src="https://komarev.com/ghpvc/?username=yw0nam" alt="hiyouga" />
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yw0nam&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="center" src="./cards/ai-usage-full.svg"/>
+
 # 🎓 Education  
 
 * Graduated with a Bachelor's degree at Dept. of Electronics Engineering, from Incheon National University (March 2017 ~ March 2021)  
