@@ -12,14 +12,7 @@
 * Graduated with a Master's degree at Dept. of Digital Healthcare, from Sungkyunkwan University (March 2021 ~ March 2023)
 
 # Research Topic
-LLM, ASR, TTS
-
-Skills 
-
-- Natural Language: Korean (Native), English(Buiness level), Japanese (JLPT-N1)
-- Programming Language: **Python**; SQL; C;
-- Typesetting Language: **Markdown**; LaTeX;
-- AI Programming Framework: **PyTorch**; TensorFlow
+LLM, Agent, TTS
 
 [![Blog](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=githubpages&link=https://jinho-study.tistory.com//)](https://yw0nam.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho-kim-a08452191/)](https://www.linkedin.com/in/young-woo-nam-592a83195/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlfhgk62@gmail.com)](mailto:spow2544@gmail.com)
 <br></br>  
