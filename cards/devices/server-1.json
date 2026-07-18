@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-07-17T01:20:17.907Z",
+  "updatedAt": "2026-07-18T01:20:15.224Z",
   "daily": [
     {
       "agent": "all",
@@ -6261,20 +6261,66 @@
       "period": "2026-07-16",
       "totalCost": 9.211018000000003,
       "totalTokens": 8353179
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 1513181,
+      "cacheReadTokens": 90954282,
+      "inputTokens": 18179,
+      "metadata": {
+        "agents": [
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 459590,
+          "cacheReadTokens": 47154246,
+          "cost": 63.48978600000001,
+          "inputTokens": 409,
+          "modelName": "claude-fable-5",
+          "outputTokens": 142793
+        },
+        {
+          "cacheCreationTokens": 513004,
+          "cacheReadTokens": 38087330,
+          "cost": 11.005653999999998,
+          "inputTokens": 17531,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 130111
+        },
+        {
+          "cacheCreationTokens": 540587,
+          "cacheReadTokens": 5712706,
+          "cost": 9.928968000000001,
+          "inputTokens": 239,
+          "modelName": "claude-opus-4-8",
+          "outputTokens": 66622
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5",
+        "claude-opus-4-8",
+        "claude-sonnet-5"
+      ],
+      "outputTokens": 339526,
+      "period": "2026-07-17",
+      "totalCost": 84.42440799999994,
+      "totalTokens": 92825168
     }
   ],
   "totals": {
-    "cacheCreationTokens": 119904595,
-    "cacheReadTokens": 3022438223,
-    "inputTokens": 131761447,
-    "outputTokens": 24066729,
-    "totalCost": 2989.9838458404,
-    "totalTokens": 3299426227
+    "cacheCreationTokens": 121417776,
+    "cacheReadTokens": 3113392505,
+    "inputTokens": 131779626,
+    "outputTokens": 24406255,
+    "totalCost": 3074.4082538404,
+    "totalTokens": 3392251395
   },
   "tools": [
     [
       "Claude Code",
-      2864.6177777204
+      2949.0421857204
     ],
     [
       "Codex",
