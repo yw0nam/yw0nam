@@ -18,6 +18,6 @@
 <line x1="200" y1="60" x2="200" y2="175" stroke="#262626" stroke-width="1"/>
 <g class="fade" style="animation-delay:150ms"><text x="30" y="74" class="hdr">ALL-TIME</text>
 <text x="30" y="140" class="big">5.7B</text>
-<text x="30" y="165" class="sub">tokens &#183; 93.3% cache-hit</text></g>
-<g class="fade" style="animation-delay:300ms"><text x="222" y="74" class="hdr">COST</text><text x="222" y="98" class="lbl">USD</text><text x="393" y="98" text-anchor="end" class="val">$ 5,088</text><text x="222" y="123" class="lbl">KRW</text><text x="393" y="123" text-anchor="end" class="val">₩ 7,530,843</text><text x="222" y="148" class="lbl">EUR</text><text x="393" y="148" text-anchor="end" class="val">€ 4,461</text><text x="222" y="173" class="lbl">CNY</text><text x="393" y="173" text-anchor="end" class="val">¥ 34,482</text></g>
+<text x="30" y="165" class="sub">tokens &#183; 93.2% cache-hit</text></g>
+<g class="fade" style="animation-delay:300ms"><text x="222" y="74" class="hdr">COST</text><text x="222" y="98" class="lbl">USD</text><text x="393" y="98" text-anchor="end" class="val">$ 5,098</text><text x="222" y="123" class="lbl">KRW</text><text x="393" y="123" text-anchor="end" class="val">₩ 7,544,998</text><text x="222" y="148" class="lbl">EUR</text><text x="393" y="148" text-anchor="end" class="val">€ 4,469</text><text x="222" y="173" class="lbl">CNY</text><text x="393" y="173" text-anchor="end" class="val">¥ 34,547</text></g>
 </svg>
