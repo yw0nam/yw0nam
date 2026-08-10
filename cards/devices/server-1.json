@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-08-09T01:20:20.942Z",
+  "updatedAt": "2026-08-10T01:20:13.734Z",
   "daily": [
     {
       "agent": "all",
@@ -7141,24 +7141,71 @@
       "period": "2026-08-07",
       "totalCost": 153.69928910000039,
       "totalTokens": 257403923
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 1716988,
+      "cacheReadTokens": 30310730,
+      "inputTokens": 92755,
+      "metadata": {
+        "agents": [
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 456117,
+          "cacheReadTokens": 14925819,
+          "cost": 16.093339499999995,
+          "inputTokens": 307,
+          "modelName": "claude-opus-5",
+          "outputTokens": 162709
+        },
+        {
+          "cacheCreationTokens": 1260871,
+          "cacheReadTokens": 14442063,
+          "cost": 9.442262600000003,
+          "inputTokens": 13078,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 148421
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 942848,
+          "cost": 0.3843536,
+          "inputTokens": 79370,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 3087
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5",
+        "claude-sonnet-5",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 314217,
+      "period": "2026-08-10",
+      "totalCost": 25.9199557,
+      "totalTokens": 32434690
     }
   ],
   "totals": {
-    "cacheCreationTokens": 151056768,
-    "cacheReadTokens": 3179207425,
-    "inputTokens": 128730412,
-    "outputTokens": 21927584,
-    "totalCost": 3103.7121011604,
-    "totalTokens": 3482185063
+    "cacheCreationTokens": 152773756,
+    "cacheReadTokens": 3209518155,
+    "inputTokens": 128823167,
+    "outputTokens": 22241801,
+    "totalCost": 3129.6320568604,
+    "totalTokens": 3514619753
   },
   "tools": [
     [
       "Claude Code",
-      2890.4362710404
+      2915.9718731404
     ],
     [
       "Codex",
-      168.24388150000001
+      168.6282351
     ],
     [
       "Gemini",
