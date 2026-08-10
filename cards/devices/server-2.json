@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-2",
-  "updatedAt": "2026-08-09T01:25:05.372Z",
+  "updatedAt": "2026-08-10T01:25:06.130Z",
   "daily": [
     {
       "agent": "all",
@@ -856,20 +856,66 @@
       "period": "2026-08-07",
       "totalCost": 58.71588080000004,
       "totalTokens": 87053037
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 164126,
+      "cacheReadTokens": 2465469,
+      "inputTokens": 98,
+      "metadata": {
+        "agents": [
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 70343,
+          "cacheReadTokens": 1878277,
+          "cost": 4.885067,
+          "inputTokens": 58,
+          "modelName": "claude-fable-5",
+          "outputTokens": 31987
+        },
+        {
+          "cacheCreationTokens": 51334,
+          "cacheReadTokens": 526424,
+          "cost": 0.8395695,
+          "inputTokens": 34,
+          "modelName": "claude-opus-5",
+          "outputTokens": 10214
+        },
+        {
+          "cacheCreationTokens": 42449,
+          "cacheReadTokens": 60768,
+          "cost": 0.12385810000000001,
+          "inputTokens": 6,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 557
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5",
+        "claude-opus-5",
+        "claude-sonnet-5"
+      ],
+      "outputTokens": 42758,
+      "period": "2026-08-10",
+      "totalCost": 5.8484945999999995,
+      "totalTokens": 2672451
     }
   ],
   "totals": {
-    "cacheCreationTokens": 18748261,
-    "cacheReadTokens": 1119489390,
-    "inputTokens": 1931614,
-    "outputTokens": 6279802,
-    "totalCost": 832.3385604000001,
-    "totalTokens": 1146478429
+    "cacheCreationTokens": 18912387,
+    "cacheReadTokens": 1121954859,
+    "inputTokens": 1931712,
+    "outputTokens": 6322560,
+    "totalCost": 838.1870550000001,
+    "totalTokens": 1149150880
   },
   "tools": [
     [
       "Claude Code",
-      819.2488560000002
+      825.0973506000001
     ],
     [
       "Codex",
