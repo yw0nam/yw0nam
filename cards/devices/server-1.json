@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-08-15T01:20:15.165Z",
+  "updatedAt": "2026-08-16T01:20:23.975Z",
   "daily": [
     {
       "agent": "all",
@@ -2265,7 +2265,7 @@
         {
           "cacheCreationTokens": 199649,
           "cacheReadTokens": 1260266,
-          "cost": 0.13116456,
+          "cost": 0.1285494925,
           "inputTokens": 111222,
           "modelName": "minimax-m2.7",
           "outputTokens": 18485
@@ -2324,7 +2324,7 @@
       ],
       "outputTokens": 446862,
       "period": "2026-05-03",
-      "totalCost": 32.17110775999999,
+      "totalCost": 32.16849269249999,
       "totalTokens": 35700976
     },
     {
@@ -2590,7 +2590,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 8034816,
-          "cost": 8.351503000000001,
+          "cost": 15.643811999999999,
           "inputTokens": 583691,
           "modelName": "gpt-5.5",
           "outputTokens": 43497
@@ -2629,7 +2629,7 @@
       ],
       "outputTokens": 451191,
       "period": "2026-05-07",
-      "totalCost": 38.94159884,
+      "totalCost": 46.23390784,
       "totalTokens": 47683418
     },
     {
@@ -2655,7 +2655,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 6556160,
-          "cost": 8.018875,
+          "cost": 10.024047,
           "inputTokens": 553515,
           "modelName": "gpt-5.5",
           "outputTokens": 49873
@@ -2703,7 +2703,7 @@
       ],
       "outputTokens": 846878,
       "period": "2026-05-08",
-      "totalCost": 81.36434046000001,
+      "totalCost": 83.36951246000001,
       "totalTokens": 71149922
     },
     {
@@ -3018,7 +3018,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 23316992,
-          "cost": 25.32104,
+          "cost": 40.058478,
           "inputTokens": 1371426,
           "modelName": "gpt-5.5",
           "outputTokens": 117001
@@ -3065,7 +3065,7 @@
       ],
       "outputTokens": 247866,
       "period": "2026-05-15",
-      "totalCost": 34.064278,
+      "totalCost": 48.801716000000006,
       "totalTokens": 37703970
     },
     {
@@ -3083,7 +3083,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 7662592,
-          "cost": 6.509441,
+          "cost": 12.700417000000002,
           "inputTokens": 408243,
           "modelName": "gpt-5.5",
           "outputTokens": 16556
@@ -3130,7 +3130,7 @@
       ],
       "outputTokens": 50786,
       "period": "2026-05-16",
-      "totalCost": 9.41034023,
+      "totalCost": 15.601316230000002,
       "totalTokens": 10751186
     },
     {
@@ -3227,7 +3227,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 2843477,
-          "cost": 2.034045,
+          "cost": 2.8823274000000003,
           "inputTokens": 1089019,
           "modelName": "qwen3.6-plus",
           "outputTokens": 22599
@@ -3251,7 +3251,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 18688,
-          "cost": 0.013544420000000001,
+          "cost": 0.0113554,
           "inputTokens": 11676,
           "modelName": "kimi-k2.5",
           "outputTokens": 827
@@ -3277,7 +3277,7 @@
       ],
       "outputTokens": 195912,
       "period": "2026-05-18",
-      "totalCost": 26.25015496999999,
+      "totalCost": 27.09624834999999,
       "totalTokens": 36366638
     },
     {
@@ -3295,7 +3295,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 5155328,
-          "cost": 5.563334000000001,
+          "cost": 6.901056000000001,
           "inputTokens": 408884,
           "modelName": "gpt-5.5",
           "outputTokens": 24480
@@ -3342,7 +3342,7 @@
       ],
       "outputTokens": 49217,
       "period": "2026-05-19",
-      "totalCost": 6.997785795,
+      "totalCost": 8.335507795,
       "totalTokens": 9706146
     },
     {
@@ -3361,7 +3361,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 13509760,
-          "cost": 12.25721,
+          "cost": 13.830431,
           "inputTokens": 641424,
           "modelName": "gpt-5.5",
           "outputTokens": 74739
@@ -3390,7 +3390,7 @@
       ],
       "outputTokens": 92346,
       "period": "2026-05-20",
-      "totalCost": 13.3062977,
+      "totalCost": 14.8795187,
       "totalTokens": 16532227
     },
     {
@@ -3408,7 +3408,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 21412352,
-          "cost": 35.290516000000004,
+          "cost": 39.956464000000004,
           "inputTokens": 2424260,
           "modelName": "gpt-5.5",
           "outputTokens": 101763
@@ -3446,7 +3446,7 @@
       ],
       "outputTokens": 165830,
       "period": "2026-05-21",
-      "totalCost": 40.37715861560001,
+      "totalCost": 45.04310661560001,
       "totalTokens": 33953013
     },
     {
@@ -3465,7 +3465,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 11303424,
-          "cost": 10.507182,
+          "cost": 11.985999,
           "inputTokens": 736986,
           "modelName": "gpt-5.5",
           "outputTokens": 37665
@@ -3481,7 +3481,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 405582,
-          "cost": 0.430983,
+          "cost": 0.9731603999999999,
           "inputTokens": 435660,
           "modelName": "qwen3.6-plus",
           "outputTokens": 3454
@@ -3503,7 +3503,7 @@
       ],
       "outputTokens": 78574,
       "period": "2026-05-22",
-      "totalCost": 13.82890815,
+      "totalCost": 15.84990255,
       "totalTokens": 18673844
     },
     {
@@ -3636,7 +3636,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 7751740,
-          "cost": 39.843235,
+          "cost": 43.092296,
           "inputTokens": 3432225,
           "modelName": "gpt-5.5",
           "outputTokens": 51421
@@ -3651,19 +3651,19 @@
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 183556,
-          "cost": 0.158299,
-          "inputTokens": 123340,
-          "modelName": "qwen3.6-plus",
-          "outputTokens": 1617
-        },
-        {
-          "cacheCreationTokens": 0,
           "cacheReadTokens": 6423552,
           "cost": 0.09836202599999999,
           "inputTokens": 126562,
           "modelName": "deepseek-v4-pro",
           "outputTokens": 23014
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 183556,
+          "cost": 0.0756988,
+          "inputTokens": 123340,
+          "modelName": "qwen3.6-plus",
+          "outputTokens": 1617
         },
         {
           "cacheCreationTokens": 0,
@@ -3683,7 +3683,7 @@
       ],
       "outputTokens": 118961,
       "period": "2026-05-26",
-      "totalCost": 43.186962625999996,
+      "totalCost": 46.35342342599999,
       "totalTokens": 24016199
     },
     {
@@ -3699,20 +3699,20 @@
       },
       "modelBreakdowns": [
         {
-          "cacheCreationTokens": 0,
-          "cacheReadTokens": 8428408,
-          "cost": 4.4639125,
-          "inputTokens": 251485,
-          "modelName": "qwen3.6-plus",
-          "outputTokens": 41322
-        },
-        {
           "cacheCreationTokens": 260796,
           "cacheReadTokens": 5203961,
           "cost": 3.0645423000000003,
           "inputTokens": 83,
           "modelName": "claude-sonnet-4-6",
           "outputTokens": 35008
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8428408,
+          "cost": 2.2770877000000005,
+          "inputTokens": 251485,
+          "modelName": "qwen3.6-plus",
+          "outputTokens": 41322
         },
         {
           "cacheCreationTokens": 354155,
@@ -3730,7 +3730,7 @@
       ],
       "outputTokens": 119983,
       "period": "2026-05-27",
-      "totalCost": 7.617600046000001,
+      "totalCost": 5.430775246000001,
       "totalTokens": 28717759
     },
     {
@@ -3748,10 +3748,18 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 6294528,
-          "cost": 5.997874,
+          "cost": 11.669978,
           "inputTokens": 439814,
           "modelName": "gpt-5.5",
           "outputTokens": 16789
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2173688,
+          "cost": 3.1168091999999996,
+          "inputTokens": 1376986,
+          "modelName": "qwen3.6-plus",
+          "outputTokens": 20726
         },
         {
           "cacheCreationTokens": 225686,
@@ -3760,14 +3768,6 @@
           "inputTokens": 81,
           "modelName": "claude-sonnet-4-6",
           "outputTokens": 32256
-        },
-        {
-          "cacheCreationTokens": 0,
-          "cacheReadTokens": 2173688,
-          "cost": 1.8375149999999998,
-          "inputTokens": 1376986,
-          "modelName": "qwen3.6-plus",
-          "outputTokens": 20726
         }
       ],
       "modelsUsed": [
@@ -3777,7 +3777,7 @@
       ],
       "outputTokens": 69771,
       "period": "2026-05-28",
-      "totalCost": 10.4999278,
+      "totalCost": 17.451326,
       "totalTokens": 15032594
     },
     {
@@ -3812,7 +3812,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 47206,
-          "cost": 0.060708000000000005,
+          "cost": 0.0394653,
           "inputTokens": 57746,
           "modelName": "qwen3.6-plus",
           "outputTokens": 2744
@@ -3825,7 +3825,7 @@
       ],
       "outputTokens": 52789,
       "period": "2026-05-29",
-      "totalCost": 5.0014791500000015,
+      "totalCost": 4.980236450000002,
       "totalTokens": 7288148
     },
     {
@@ -3890,7 +3890,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 5933056,
-          "cost": 4.761513,
+          "cost": 9.259146,
           "inputTokens": 253445,
           "modelName": "gpt-5.5",
           "outputTokens": 14753
@@ -3906,7 +3906,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 81954,
-          "cost": 0.0952835,
+          "cost": 0.058404199999999996,
           "inputTokens": 77731,
           "modelName": "qwen3.6-plus",
           "outputTokens": 5147
@@ -3919,7 +3919,7 @@
       ],
       "outputTokens": 53116,
       "period": "2026-05-31",
-      "totalCost": 7.75891955,
+      "totalCost": 12.21967325,
       "totalTokens": 11726722
     },
     {
@@ -3938,7 +3938,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 30800384,
-          "cost": 26.286837,
+          "cost": 39.460833,
           "inputTokens": 1469161,
           "modelName": "gpt-5.5",
           "outputTokens": 108057
@@ -3954,7 +3954,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 507202,
-          "cost": 0.514898,
+          "cost": 0.8308080499999998,
           "inputTokens": 469932,
           "modelName": "qwen3.6-plus",
           "outputTokens": 8777
@@ -3976,7 +3976,7 @@
       ],
       "outputTokens": 218909,
       "period": "2026-06-01",
-      "totalCost": 33.82958456,
+      "totalCost": 47.319490609999995,
       "totalTokens": 48909939
     },
     {
@@ -3994,7 +3994,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 3403249,
-          "cost": 16.931602,
+          "cost": 19.703251,
           "inputTokens": 1532346,
           "modelName": "gpt-5.5",
           "outputTokens": 30332
@@ -4010,7 +4010,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 3243334,
-          "cost": 1.7564674999999998,
+          "cost": 1.0924208,
           "inputTokens": 193179,
           "modelName": "qwen3.6-plus",
           "outputTokens": 9768
@@ -4032,7 +4032,7 @@
       ],
       "outputTokens": 71984,
       "period": "2026-06-02",
-      "totalCost": 21.4516268584,
+      "totalCost": 23.5592291584,
       "totalTokens": 13703646
     },
     {
@@ -4066,7 +4066,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 9334,
-          "cost": 0.0127,
+          "cost": 0.0084997,
           "inputTokens": 9082,
           "modelName": "qwen3.6-plus",
           "outputTokens": 1164
@@ -4079,7 +4079,7 @@
       ],
       "outputTokens": 46022,
       "period": "2026-06-03",
-      "totalCost": 11.060212750000002,
+      "totalCost": 11.05601245,
       "totalTokens": 8046628
     },
     {
@@ -4098,7 +4098,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 26385664,
-          "cost": 24.050972,
+          "cost": 27.842107000000002,
           "inputTokens": 1367226,
           "modelName": "gpt-5.5",
           "outputTokens": 129497
@@ -4114,7 +4114,7 @@
         {
           "cacheCreationTokens": 64799,
           "cacheReadTokens": 1068324,
-          "cost": 0.46684087500000004,
+          "cost": 1.085049675,
           "inputTokens": 455786,
           "modelName": "qwen3.6-plus",
           "outputTokens": 8994
@@ -4127,7 +4127,7 @@
       ],
       "outputTokens": 258217,
       "period": "2026-06-04",
-      "totalCost": 28.421488374999996,
+      "totalCost": 32.830832175,
       "totalTokens": 57628424
     },
     {
@@ -4145,7 +4145,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 7292928,
-          "cost": 6.4962990000000005,
+          "cost": 12.05823,
           "inputTokens": 387243,
           "modelName": "gpt-5.5",
           "outputTokens": 23729
@@ -4161,7 +4161,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 945948,
-          "cost": 0.6693804999999999,
+          "cost": 0.8909612499999999,
           "inputTokens": 341237,
           "modelName": "qwen3.6-plus",
           "outputTokens": 8596
@@ -4183,7 +4183,7 @@
       ],
       "outputTokens": 90454,
       "period": "2026-06-05",
-      "totalCost": 10.753709091000001,
+      "totalCost": 16.537220841,
       "totalTokens": 19484524
     },
     {
@@ -4199,6 +4199,14 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6684672,
+          "cost": 11.340667,
+          "inputTokens": 316591,
+          "modelName": "gpt-5.5",
+          "outputTokens": 24963
+        },
+        {
           "cacheCreationTokens": 335383,
           "cacheReadTokens": 11656571,
           "cost": 6.150914549999996,
@@ -4208,16 +4216,8 @@
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 6684672,
-          "cost": 5.918681,
-          "inputTokens": 316591,
-          "modelName": "gpt-5.5",
-          "outputTokens": 24963
-        },
-        {
-          "cacheCreationTokens": 0,
           "cacheReadTokens": 86614,
-          "cost": 0.124774,
+          "cost": 0.0857977,
           "inputTokens": 141442,
           "modelName": "qwen3.6-plus",
           "outputTokens": 3582
@@ -4230,7 +4230,7 @@
       ],
       "outputTokens": 121583,
       "period": "2026-06-06",
-      "totalCost": 12.194369549999996,
+      "totalCost": 17.577379249999996,
       "totalTokens": 19351235
     },
     {
@@ -4247,7 +4247,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 51181,
-          "cost": 0.0687595,
+          "cost": 0.04572805,
           "inputTokens": 68158,
           "modelName": "qwen3.6-plus",
           "outputTokens": 3030
@@ -4258,7 +4258,7 @@
       ],
       "outputTokens": 3030,
       "period": "2026-06-07",
-      "totalCost": 0.0687595,
+      "totalCost": 0.04572805,
       "totalTokens": 122369
     },
     {
@@ -4293,7 +4293,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 59055,
-          "cost": 0.07609049999999999,
+          "cost": 0.04951574999999999,
           "inputTokens": 75120,
           "modelName": "qwen3.6-plus",
           "outputTokens": 3001
@@ -4306,7 +4306,7 @@
       ],
       "outputTokens": 152529,
       "period": "2026-06-08",
-      "totalCost": 32.5662983,
+      "totalCost": 32.53972355,
       "totalTokens": 39093551
     },
     {
@@ -4332,7 +4332,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 730919,
-          "cost": 0.6574552,
+          "cost": 1.9539398,
           "inputTokens": 877355,
           "modelName": "qwen3.7-plus",
           "outputTokens": 8841
@@ -4340,7 +4340,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 7874,
-          "cost": 0.014383,
+          "cost": 0.0108397,
           "inputTokens": 12888,
           "modelName": "qwen3.6-plus",
           "outputTokens": 1334
@@ -4353,7 +4353,7 @@
       ],
       "outputTokens": 78259,
       "period": "2026-06-09",
-      "totalCost": 6.984009199999996,
+      "totalCost": 8.276950499999996,
       "totalTokens": 16087121
     },
     {
@@ -4369,6 +4369,14 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2318517,
+          "cost": 6.0821194,
+          "inputTokens": 2745800,
+          "modelName": "qwen3.7-plus",
+          "outputTokens": 21136
+        },
+        {
           "cacheCreationTokens": 252751,
           "cacheReadTokens": 7103364,
           "cost": 3.7891594500000005,
@@ -4378,16 +4386,8 @@
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 2318517,
-          "cost": 2.0595444,
-          "inputTokens": 2745800,
-          "modelName": "qwen3.7-plus",
-          "outputTokens": 21136
-        },
-        {
-          "cacheCreationTokens": 0,
           "cacheReadTokens": 28644,
-          "cost": 0.0416855,
+          "cost": 0.0287957,
           "inputTokens": 42733,
           "modelName": "qwen3.6-plus",
           "outputTokens": 1999
@@ -4400,7 +4400,7 @@
       ],
       "outputTokens": 70467,
       "period": "2026-06-10",
-      "totalCost": 5.89038935,
+      "totalCost": 9.90007455,
       "totalTokens": 12562394
     },
     {
@@ -4426,7 +4426,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 581959,
-          "cost": 0.36225320000000005,
+          "cost": 0.7522318,
           "inputTokens": 300658,
           "modelName": "qwen3.7-plus",
           "outputTokens": 5754
@@ -4442,7 +4442,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 24576,
-          "cost": 0.032909,
+          "cost": 0.0218498,
           "inputTokens": 28624,
           "modelName": "qwen3.6-plus",
           "outputTokens": 2103
@@ -4456,7 +4456,7 @@
       ],
       "outputTokens": 77934,
       "period": "2026-06-11",
-      "totalCost": 4.283000329600002,
+      "totalCost": 4.661919729600002,
       "totalTokens": 10481819
     },
     {
@@ -4482,7 +4482,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 12288,
-          "cost": 0.020109,
+          "cost": 0.014579399999999998,
           "inputTokens": 16782,
           "modelName": "qwen3.6-plus",
           "outputTokens": 1858
@@ -4494,7 +4494,7 @@
       ],
       "outputTokens": 50404,
       "period": "2026-06-12",
-      "totalCost": 3.551653349999999,
+      "totalCost": 3.546123749999999,
       "totalTokens": 6632646
     },
     {
@@ -4520,7 +4520,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 506880,
-          "cost": 1.2194950000000002,
+          "cost": 2.36606,
           "inputTokens": 164039,
           "modelName": "gpt-5.5",
           "outputTokens": 3891
@@ -4528,7 +4528,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 40960,
-          "cost": 0.056013999999999994,
+          "cost": 0.037582,
           "inputTokens": 50362,
           "modelName": "qwen3.6-plus",
           "outputTokens": 3451
@@ -4541,7 +4541,7 @@
       ],
       "outputTokens": 85827,
       "period": "2026-06-13",
-      "totalCost": 6.889698199999998,
+      "totalCost": 8.017831199999998,
       "totalTokens": 10303761
     },
     {
@@ -4567,7 +4567,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 12429,
-          "cost": 0.019157,
+          "cost": 0.01356395,
           "inputTokens": 16567,
           "modelName": "qwen3.6-plus",
           "outputTokens": 1553
@@ -4579,7 +4579,7 @@
       ],
       "outputTokens": 48187,
       "period": "2026-06-14",
-      "totalCost": 3.4589645000000004,
+      "totalCost": 3.4533714500000006,
       "totalTokens": 6352208
     },
     {
@@ -4597,7 +4597,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 5154691,
-          "cost": 28.434902,
+          "cost": 31.479076,
           "inputTokens": 2553846,
           "modelName": "gpt-5.5",
           "outputTokens": 15147
@@ -4621,7 +4621,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 12429,
-          "cost": 0.019137,
+          "cost": 0.01354395,
           "inputTokens": 16425,
           "modelName": "qwen3.6-plus",
           "outputTokens": 1570
@@ -4635,7 +4635,7 @@
       ],
       "outputTokens": 61893,
       "period": "2026-06-15",
-      "totalCost": 31.60500138,
+      "totalCost": 34.64358233,
       "totalTokens": 12710011
     },
     {
@@ -4729,7 +4729,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 3723264,
-          "cost": 72.23059500000001,
+          "cost": 73.572705,
           "inputTokens": 6855599,
           "modelName": "gpt-5.5",
           "outputTokens": 26249
@@ -4749,7 +4749,7 @@
       ],
       "outputTokens": 62618,
       "period": "2026-06-18",
-      "totalCost": 75.19850925000001,
+      "totalCost": 76.54061925,
       "totalTokens": 16054240
     },
     {
@@ -4879,20 +4879,20 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1835520,
+          "cost": 5.380165,
+          "inputTokens": 302843,
+          "modelName": "gpt-5.5",
+          "outputTokens": 10791
+        },
+        {
           "cacheCreationTokens": 321809,
           "cacheReadTokens": 5055433,
           "cost": 3.50891565,
           "inputTokens": 99,
           "modelName": "claude-sonnet-4-6",
           "outputTokens": 52347
-        },
-        {
-          "cacheCreationTokens": 0,
-          "cacheReadTokens": 1835520,
-          "cost": 2.835025,
-          "inputTokens": 302843,
-          "modelName": "gpt-5.5",
-          "outputTokens": 10791
         }
       ],
       "modelsUsed": [
@@ -4901,7 +4901,7 @@
       ],
       "outputTokens": 63138,
       "period": "2026-06-22",
-      "totalCost": 6.34394065,
+      "totalCost": 8.88908065,
       "totalTokens": 7581486
     },
     {
@@ -4919,7 +4919,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 2682880,
-          "cost": 14.687270000000002,
+          "cost": 15.966640000000002,
           "inputTokens": 1170801,
           "modelName": "gpt-5.5",
           "outputTokens": 32947
@@ -4939,7 +4939,7 @@
       ],
       "outputTokens": 71640,
       "period": "2026-06-23",
-      "totalCost": 17.290540550000003,
+      "totalCost": 18.569910550000003,
       "totalTokens": 7640830
     },
     {
@@ -5344,7 +5344,7 @@
         {
           "cacheCreationTokens": 295047,
           "cacheReadTokens": 4891182,
-          "cost": 12.095018000000001,
+          "cost": 10.98859175,
           "inputTokens": 329267,
           "modelName": "gpt-5.5",
           "outputTokens": 20523
@@ -5360,7 +5360,7 @@
         {
           "cacheCreationTokens": 4281,
           "cacheReadTokens": 197416,
-          "cost": 0.09680770000000001,
+          "cost": 0.037064425,
           "inputTokens": 19684,
           "modelName": "qwen3.7-plus",
           "outputTokens": 4892
@@ -5373,7 +5373,7 @@
       ],
       "outputTokens": 68694,
       "period": "2026-07-06",
-      "totalCost": 15.291413850000001,
+      "totalCost": 14.125244325,
       "totalTokens": 10524601
     },
     {
@@ -5464,7 +5464,7 @@
         {
           "cacheCreationTokens": 66080,
           "cacheReadTokens": 382384,
-          "cost": 0.07257196,
+          "cost": 0.06290236,
           "inputTokens": 10236,
           "modelName": "qwen3.7-plus",
           "outputTokens": 3203
@@ -5477,7 +5477,7 @@
       ],
       "outputTokens": 41527,
       "period": "2026-07-09",
-      "totalCost": 2.9984207599999992,
+      "totalCost": 2.988751159999999,
       "totalTokens": 4535219
     },
     {
@@ -5616,7 +5616,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 7004160,
-          "cost": 7.3956625,
+          "cost": 5.91653,
           "inputTokens": 585662,
           "modelName": "gpt-5.6-terra",
           "outputTokens": 32554
@@ -5627,7 +5627,7 @@
       ],
       "outputTokens": 32554,
       "period": "2026-07-14",
-      "totalCost": 7.3956625,
+      "totalCost": 5.91653,
       "totalTokens": 7632723
     },
     {
@@ -5645,7 +5645,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 6720512,
-          "cost": 6.2925781,
+          "cost": 6.8455028,
           "inputTokens": 813759,
           "modelName": "gpt-5.6-terra",
           "outputTokens": 43555
@@ -5665,7 +5665,7 @@
       ],
       "outputTokens": 71054,
       "period": "2026-07-15",
-      "totalCost": 11.4360356,
+      "totalCost": 11.9889603,
       "totalTokens": 11281904
     },
     {
@@ -5691,7 +5691,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 1751040,
-          "cost": 0.90609,
+          "cost": 1.707258,
           "inputTokens": 173019,
           "modelName": "gpt-5.6-terra",
           "outputTokens": 13034
@@ -5703,7 +5703,7 @@
       ],
       "outputTokens": 101626,
       "period": "2026-07-16",
-      "totalCost": 8.984495500000003,
+      "totalCost": 9.785663500000002,
       "totalTokens": 8353179
     },
     {
@@ -5886,6 +5886,14 @@
           "outputTokens": 51113
         },
         {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3979776,
+          "cost": 2.9569768,
+          "inputTokens": 286798,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 14137
+        },
+        {
           "cacheCreationTokens": 805964,
           "cacheReadTokens": 77958,
           "cost": 2.036197599999999,
@@ -5894,17 +5902,9 @@
           "outputTokens": 556
         },
         {
-          "cacheCreationTokens": 0,
-          "cacheReadTokens": 3979776,
-          "cost": 1.6127191999999997,
-          "inputTokens": 286798,
-          "modelName": "gpt-5.6-terra",
-          "outputTokens": 14137
-        },
-        {
           "cacheCreationTokens": 1776976,
           "cacheReadTokens": 1063265,
-          "cost": 1.3613192000000007,
+          "cost": 1.4286090000000005,
           "inputTokens": 28865,
           "modelName": "qwen3.7-plus",
           "outputTokens": 22487
@@ -5927,7 +5927,7 @@
       ],
       "outputTokens": 88633,
       "period": "2026-07-21",
-      "totalCost": 13.065596660000006,
+      "totalCost": 14.477144060000004,
       "totalTokens": 16411608
     },
     {
@@ -5962,7 +5962,7 @@
         {
           "cacheCreationTokens": 4096204,
           "cacheReadTokens": 2036175,
-          "cost": 2.950769600000001,
+          "cost": 2.821003250000002,
           "inputTokens": 25214,
           "modelName": "qwen3.7-plus",
           "outputTokens": 48820
@@ -5993,7 +5993,7 @@
       ],
       "outputTokens": 296355,
       "period": "2026-07-22",
-      "totalCost": 51.36824899999994,
+      "totalCost": 51.238482649999945,
       "totalTokens": 57783161
     },
     {
@@ -6053,7 +6053,7 @@
         {
           "cacheCreationTokens": 3327707,
           "cacheReadTokens": 1683363,
-          "cost": 2.417952300000001,
+          "cost": 2.3094840249999993,
           "inputTokens": 23656,
           "modelName": "qwen3.7-plus",
           "outputTokens": 44557
@@ -6078,7 +6078,7 @@
       ],
       "outputTokens": 1390871,
       "period": "2026-07-23",
-      "totalCost": 270.5398137749999,
+      "totalCost": 270.4313454999999,
       "totalTokens": 218495016
     },
     {
@@ -6130,7 +6130,7 @@
         {
           "cacheCreationTokens": 3327445,
           "cacheReadTokens": 1781369,
-          "cost": 2.4593125,
+          "cost": 2.3189965750000003,
           "inputTokens": 21718,
           "modelName": "qwen3.7-plus",
           "outputTokens": 46472
@@ -6163,7 +6163,7 @@
       ],
       "outputTokens": 686106,
       "period": "2026-07-24",
-      "totalCost": 137.05418457499997,
+      "totalCost": 136.91386864999996,
       "totalTokens": 126501396
     },
     {
@@ -6197,7 +6197,7 @@
         {
           "cacheCreationTokens": 3330992,
           "cacheReadTokens": 1766162,
-          "cost": 2.5169167999999997,
+          "cost": 2.3996091000000006,
           "inputTokens": 169446,
           "modelName": "qwen3.7-plus",
           "outputTokens": 48236
@@ -6210,7 +6210,7 @@
       ],
       "outputTokens": 386575,
       "period": "2026-07-25",
-      "totalCost": 54.565924499999994,
+      "totalCost": 54.448616799999996,
       "totalTokens": 78046047
     },
     {
@@ -6237,7 +6237,7 @@
         {
           "cacheCreationTokens": 3327782,
           "cacheReadTokens": 1516446,
-          "cost": 2.354302199999999,
+          "cost": 2.3033850500000006,
           "inputTokens": 37950,
           "modelName": "qwen3.7-plus",
           "outputTokens": 42908
@@ -6258,7 +6258,7 @@
       ],
       "outputTokens": 112269,
       "period": "2026-07-26",
-      "totalCost": 17.4204307,
+      "totalCost": 17.36951355,
       "totalTokens": 23780227
     },
     {
@@ -6293,7 +6293,7 @@
         {
           "cacheCreationTokens": 3517336,
           "cacheReadTokens": 1788827,
-          "cost": 2.6819636000000004,
+          "cost": 2.5971473499999997,
           "inputTokens": 320752,
           "modelName": "qwen3.7-plus",
           "outputTokens": 49665
@@ -6324,7 +6324,7 @@
       ],
       "outputTokens": 738844,
       "period": "2026-07-27",
-      "totalCost": 98.60864854999996,
+      "totalCost": 98.52383229999995,
       "totalTokens": 152889359
     },
     {
@@ -6367,7 +6367,7 @@
         {
           "cacheCreationTokens": 3802216,
           "cacheReadTokens": 1645327,
-          "cost": 2.6354671999999986,
+          "cost": 2.5969008500000017,
           "inputTokens": 18715,
           "modelName": "qwen3.7-plus",
           "outputTokens": 42964
@@ -6375,7 +6375,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 1486336,
-          "cost": 0.7006171999999999,
+          "cost": 1.3566364,
           "inputTokens": 157077,
           "modelName": "gpt-5.6-terra",
           "outputTokens": 6078
@@ -6408,7 +6408,7 @@
       ],
       "outputTokens": 416868,
       "period": "2026-07-28",
-      "totalCost": 83.73829829999997,
+      "totalCost": 84.35575114999996,
       "totalTokens": 76400148
     },
     {
@@ -6451,7 +6451,7 @@
         {
           "cacheCreationTokens": 3652798,
           "cacheReadTokens": 1385945,
-          "cost": 2.4652554,
+          "cost": 2.504759,
           "inputTokens": 23736,
           "modelName": "qwen3.7-plus",
           "outputTokens": 46865
@@ -6483,7 +6483,7 @@
       ],
       "outputTokens": 286892,
       "period": "2026-07-29",
-      "totalCost": 38.89536749999999,
+      "totalCost": 38.93487109999999,
       "totalTokens": 40383415
     },
     {
@@ -6526,7 +6526,7 @@
         {
           "cacheCreationTokens": 3906063,
           "cacheReadTokens": 1759538,
-          "cost": 2.7802379,
+          "cost": 3.392473774999999,
           "inputTokens": 122546,
           "modelName": "qwen3.7-plus",
           "outputTokens": 46483
@@ -6549,7 +6549,7 @@
       ],
       "outputTokens": 284320,
       "period": "2026-07-30",
-      "totalCost": 44.5334245,
+      "totalCost": 45.145660375,
       "totalTokens": 46840798
     },
     {
@@ -6565,20 +6565,20 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreationTokens": 3830044,
+          "cacheReadTokens": 2292914,
+          "cost": 4.7989406500000005,
+          "inputTokens": 882292,
+          "modelName": "qwen3.7-plus",
+          "outputTokens": 61809
+        },
+        {
           "cacheCreationTokens": 106089,
           "cacheReadTokens": 3715861,
           "cost": 3.4133854999999995,
           "inputTokens": 93,
           "modelName": "claude-opus-5",
           "outputTokens": 19764
-        },
-        {
-          "cacheCreationTokens": 3830044,
-          "cacheReadTokens": 2292914,
-          "cost": 3.2839988000000013,
-          "inputTokens": 882292,
-          "modelName": "qwen3.7-plus",
-          "outputTokens": 61809
         },
         {
           "cacheCreationTokens": 159281,
@@ -6596,7 +6596,7 @@
       ],
       "outputTokens": 85005,
       "period": "2026-07-31",
-      "totalCost": 7.602220300000001,
+      "totalCost": 9.11716215,
       "totalTokens": 12238215
     },
     {
@@ -6613,7 +6613,7 @@
         {
           "cacheCreationTokens": 3689415,
           "cacheReadTokens": 1680529,
-          "cost": 2.6059814999999995,
+          "cost": 2.542110825000001,
           "inputTokens": 59168,
           "modelName": "qwen3.7-plus",
           "outputTokens": 40872
@@ -6624,7 +6624,7 @@
       ],
       "outputTokens": 40872,
       "period": "2026-08-01",
-      "totalCost": 2.6059814999999995,
+      "totalCost": 2.542110825000001,
       "totalTokens": 5469984
     },
     {
@@ -6641,7 +6641,7 @@
         {
           "cacheCreationTokens": 3689383,
           "cacheReadTokens": 1480258,
-          "cost": 2.5642946999999983,
+          "cost": 2.580545275000001,
           "inputTokens": 153578,
           "modelName": "qwen3.7-plus",
           "outputTokens": 41293
@@ -6652,7 +6652,7 @@
       ],
       "outputTokens": 41293,
       "period": "2026-08-02",
-      "totalCost": 2.5642946999999983,
+      "totalCost": 2.580545275000001,
       "totalTokens": 5364512
     },
     {
@@ -6694,7 +6694,7 @@
         {
           "cacheCreationTokens": 3690308,
           "cacheReadTokens": 1572811,
-          "cost": 2.5547216000000006,
+          "cost": 2.528221050000001,
           "inputTokens": 30772,
           "modelName": "qwen3.7-plus",
           "outputTokens": 42584
@@ -6708,7 +6708,7 @@
       ],
       "outputTokens": 456368,
       "period": "2026-08-03",
-      "totalCost": 78.41335629999999,
+      "totalCost": 78.38685575,
       "totalTokens": 140172705
     },
     {
@@ -6759,7 +6759,7 @@
         {
           "cacheCreationTokens": 2533614,
           "cacheReadTokens": 1065056,
-          "cost": 1.7499266000000002,
+          "cost": 1.7349490500000004,
           "inputTokens": 35479,
           "modelName": "qwen3.7-plus",
           "outputTokens": 26816
@@ -6783,7 +6783,7 @@
       ],
       "outputTokens": 785971,
       "period": "2026-08-04",
-      "totalCost": 184.5857065,
+      "totalCost": 184.57072895,
       "totalTokens": 159193672
     },
     {
@@ -7067,7 +7067,7 @@
         {
           "cacheCreationTokens": 15443,
           "cacheReadTokens": 0,
-          "cost": 0.0082935,
+          "cost": 0.010722875,
           "inputTokens": 6,
           "modelName": "qwen3.7-plus",
           "outputTokens": 356
@@ -7083,7 +7083,7 @@
       ],
       "outputTokens": 784328,
       "period": "2026-08-11",
-      "totalCost": 143.99628789999997,
+      "totalCost": 143.99871727499996,
       "totalTokens": 155202617
     },
     {
@@ -7259,13 +7259,13 @@
     "cacheReadTokens": 3628621694,
     "inputTokens": 129897112,
     "outputTokens": 23984548,
-    "totalCost": 3370.9215798104,
+    "totalCost": 3472.2592501978993,
     "totalTokens": 3937030283
   },
   "tools": [
     [
       "Claude Code",
-      3118.2303390904
+      3219.568009477899
     ],
     [
       "Codex",
