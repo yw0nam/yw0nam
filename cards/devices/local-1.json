@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "local-1",
-  "updatedAt": "2026-08-31T01:15:10.501Z",
+  "updatedAt": "2026-09-01T01:15:06.698Z",
   "daily": [
     {
       "agent": "all",
@@ -2611,9 +2611,9 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 349143,
-      "cacheReadTokens": 20351155,
-      "inputTokens": 432990,
+      "cacheCreationTokens": 10902704,
+      "cacheReadTokens": 307780553,
+      "inputTokens": 1122129,
       "metadata": {
         "agents": [
           "claude",
@@ -2622,57 +2622,103 @@
       },
       "modelBreakdowns": [
         {
-          "cacheCreationTokens": 236332,
-          "cacheReadTokens": 14914049,
-          "cost": 24.360558999999995,
-          "inputTokens": 272,
+          "cacheCreationTokens": 3208366,
+          "cacheReadTokens": 97413064,
+          "cost": 184.00122900000002,
+          "inputTokens": 72406,
           "modelName": "claude-fable-5",
-          "outputTokens": 94343
+          "outputTokens": 557707
+        },
+        {
+          "cacheCreationTokens": 7502454,
+          "cacheReadTokens": 175112398,
+          "cost": 151.9097715,
+          "inputTokens": 1832,
+          "modelName": "claude-opus-5",
+          "outputTokens": 698163
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 4695296,
-          "cost": 4.0952744,
-          "inputTokens": 432674,
+          "cacheReadTokens": 27498752,
+          "cost": 17.0291608,
+          "inputTokens": 1047785,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 24323
+          "outputTokens": 91926
         },
         {
-          "cacheCreationTokens": 112811,
-          "cacheReadTokens": 741810,
-          "cost": 1.53081875,
-          "inputTokens": 44,
-          "modelName": "claude-opus-5",
-          "outputTokens": 18185
+          "cacheCreationTokens": 191884,
+          "cacheReadTokens": 7756339,
+          "cost": 2.8356798,
+          "inputTokens": 106,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 80449
         }
       ],
       "modelsUsed": [
         "claude-fable-5",
         "claude-opus-5",
+        "claude-sonnet-5",
         "gpt-5.6-sol"
       ],
-      "outputTokens": 136851,
+      "outputTokens": 1428245,
       "period": "2026-08-31",
-      "totalCost": 29.986652149999998,
-      "totalTokens": 21270139
+      "totalCost": 355.7758411000001,
+      "totalTokens": 321233631
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 2932091,
+      "cacheReadTokens": 83075087,
+      "inputTokens": 21601,
+      "metadata": {
+        "agents": [
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 2152040,
+          "cacheReadTokens": 68594003,
+          "cost": 52.445646499999995,
+          "inputTokens": 624,
+          "modelName": "claude-opus-5",
+          "outputTokens": 187811
+        },
+        {
+          "cacheCreationTokens": 780051,
+          "cacheReadTokens": 14481084,
+          "cost": 35.59174399999999,
+          "inputTokens": 20977,
+          "modelName": "claude-fable-5",
+          "outputTokens": 123056
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5",
+        "claude-opus-5"
+      ],
+      "outputTokens": 310867,
+      "period": "2026-09-01",
+      "totalCost": 88.03739049999993,
+      "totalTokens": 86339646
     }
   ],
   "totals": {
-    "cacheCreationTokens": 122848270,
-    "cacheReadTokens": 5118155487,
-    "inputTokens": 25962908,
-    "outputTokens": 22609056,
-    "totalCost": 4403.020891056539,
-    "totalTokens": 5289811041
+    "cacheCreationTokens": 136333922,
+    "cacheReadTokens": 5488659972,
+    "inputTokens": 26673648,
+    "outputTokens": 24211317,
+    "totalCost": 4816.847470506539,
+    "totalTokens": 5676114179
   },
   "tools": [
     [
       "Claude Code",
-      4133.926554556539
+      4534.819247606539
     ],
     [
       "Codex",
-      261.9949342
+      274.9288206
     ],
     [
       "Gemini",
