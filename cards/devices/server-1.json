@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-09-06T01:20:31.850Z",
+  "updatedAt": "2026-09-07T01:20:25.801Z",
   "daily": [
     {
       "agent": "all",
@@ -3251,7 +3251,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 18688,
-          "cost": 0.0113554,
+          "cost": 0.01060788,
           "inputTokens": 11676,
           "modelName": "kimi-k2.5",
           "outputTokens": 827
@@ -3277,7 +3277,7 @@
       ],
       "outputTokens": 195912,
       "period": "2026-05-18",
-      "totalCost": 27.09624834999999,
+      "totalCost": 27.09550082999999,
       "totalTokens": 36366638
     },
     {
@@ -7495,13 +7495,13 @@
     "cacheReadTokens": 2875295390,
     "inputTokens": 130169784,
     "outputTokens": 21079083,
-    "totalCost": 3537.0160674948006,
+    "totalCost": 3537.0153199748006,
     "totalTokens": 3168617435
   },
   "tools": [
     [
       "Claude Code",
-      3313.0388537248004
+      3313.0381062048004
     ],
     [
       "Codex",
