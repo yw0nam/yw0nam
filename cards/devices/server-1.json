@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-09-15T01:20:23.833Z",
+  "updatedAt": "2026-09-16T01:20:42.170Z",
   "daily": [
     {
       "agent": "all",
@@ -7532,24 +7532,72 @@
       "period": "2026-09-14",
       "totalCost": 5.23622155,
       "totalTokens": 17602586
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 97579,
+      "cacheReadTokens": 5706687,
+      "inputTokens": 18639,
+      "metadata": {
+        "agents": [
+          "claude",
+          "codex",
+          "pi"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 97579,
+          "cacheReadTokens": 5581311,
+          "cost": 4.667055500000001,
+          "inputTokens": 132,
+          "modelName": "claude-opus-5",
+          "outputTokens": 35998
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 113920,
+          "cost": 0.057977999999999995,
+          "inputTokens": 11939,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 943
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 11456,
+          "cost": 0.0009174399999999998,
+          "inputTokens": 6568,
+          "modelName": "[pi] glm-5.3-flash",
+          "outputTokens": 1012
+        }
+      ],
+      "modelsUsed": [
+        "[pi] glm-5.3-flash",
+        "claude-opus-5",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 37953,
+      "period": "2026-09-16",
+      "totalCost": 4.7259509400000015,
+      "totalTokens": 5860858
     }
   ],
   "totals": {
-    "cacheCreationTokens": 126366651,
-    "cacheReadTokens": 1986780338,
-    "inputTokens": 129580003,
-    "outputTokens": 17535440,
-    "totalCost": 2911.7298171738007,
-    "totalTokens": 2261511430
+    "cacheCreationTokens": 126464230,
+    "cacheReadTokens": 1992487025,
+    "inputTokens": 129598642,
+    "outputTokens": 17573393,
+    "totalCost": 2916.455768113801,
+    "totalTokens": 2267372288
   },
   "tools": [
     [
       "Claude Code",
-      2688.6423697538007
+      2693.310342693801
     ],
     [
       "Codex",
-      185.8433669
+      185.9013449
     ],
     [
       "Gemini",
