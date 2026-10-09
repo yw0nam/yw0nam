@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-10-08T01:20:29.472Z",
+  "updatedAt": "2026-10-09T01:20:25.065Z",
   "daily": [
     {
       "agent": "all",
@@ -8148,11 +8148,13 @@
     {
       "agent": "all",
       "cacheCreationTokens": 399410,
-      "cacheReadTokens": 2043479,
-      "inputTokens": 28,
+      "cacheReadTokens": 2496535,
+      "inputTokens": 52810,
       "metadata": {
         "agents": [
-          "claude"
+          "claude",
+          "codex",
+          "pi"
         ]
       },
       "modelBreakdowns": [
@@ -8163,24 +8165,42 @@
           "inputTokens": 28,
           "modelName": "claude-opus-5-5",
           "outputTokens": 3598
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 365824,
+          "cost": 0.1409564,
+          "inputTokens": 39687,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 2500
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 87232,
+          "cost": 0.005765709999999999,
+          "inputTokens": 13095,
+          "modelName": "[pi] glm-5.3-flash",
+          "outputTokens": 2369
         }
       ],
       "modelsUsed": [
-        "claude-opus-5-5"
+        "[pi] glm-5.3-flash",
+        "claude-opus-5-5",
+        "gpt-6.1-sol"
       ],
-      "outputTokens": 3598,
+      "outputTokens": 8467,
       "period": "2026-10-08",
-      "totalCost": 3.6760477999999996,
-      "totalTokens": 2446515
+      "totalCost": 3.8227699099999994,
+      "totalTokens": 2957222
     }
   ],
   "totals": {
     "cacheCreationTokens": 175193911,
-    "cacheReadTokens": 3736873945,
-    "inputTokens": 154278337,
-    "outputTokens": 22701877,
-    "totalCost": 3055.0208252629,
-    "totalTokens": 4090331537,
+    "cacheReadTokens": 3737327001,
+    "inputTokens": 154331119,
+    "outputTokens": 22706746,
+    "totalCost": 3055.1675473728997,
+    "totalTokens": 4090842244,
     "unpricedModels": [
       "chat_model",
       "model_placeholder_m50"
@@ -8189,11 +8209,11 @@
   "tools": [
     [
       "Claude Code",
-      2673.9404765929
+      2673.9462423028995
     ],
     [
       "Codex",
-      221.04990210000005
+      221.19085850000005
     ],
     [
       "Gemini",
