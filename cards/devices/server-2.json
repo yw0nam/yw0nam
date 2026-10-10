@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-2",
-  "updatedAt": "2026-10-09T01:25:06.511Z",
+  "updatedAt": "2026-10-10T01:25:06.359Z",
   "daily": [
     {
       "agent": "all",
@@ -17,7 +17,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 2959878,
-          "cost": 0.28151119999999996,
+          "cost": 0.5630223999999999,
           "inputTokens": 587147,
           "modelName": "gemini-3-flash-preview",
           "outputTokens": 12693
@@ -28,7 +28,7 @@
       ],
       "outputTokens": 12693,
       "period": "2026-03-09",
-      "totalCost": 0.28151119999999996,
+      "totalCost": 0.5630223999999999,
       "totalTokens": 3587510
     },
     {
@@ -45,7 +45,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 44174,
-          "cost": 0.012058099999999999,
+          "cost": 0.024116199999999997,
           "inputTokens": 30561,
           "modelName": "gemini-3-flash-preview",
           "outputTokens": 639
@@ -56,7 +56,7 @@
       ],
       "outputTokens": 639,
       "period": "2026-03-18",
-      "totalCost": 0.012058099999999999,
+      "totalCost": 0.024116199999999997,
       "totalTokens": 76944
     },
     {
@@ -1320,7 +1320,7 @@
     "cacheReadTokens": 1953017031,
     "inputTokens": 12344056,
     "outputTokens": 10373402,
-    "totalCost": 1069.52736189,
+    "totalCost": 1069.8209311900002,
     "totalTokens": 2015815850
   },
   "tools": [
@@ -1334,7 +1334,7 @@
     ],
     [
       "Gemini",
-      0.2935693
+      0.5871386
     ]
   ]
 }
