@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-2",
-  "updatedAt": "2026-10-17T01:25:10.100Z",
+  "updatedAt": "2026-10-18T01:25:09.536Z",
   "daily": [
     {
       "agent": "all",
@@ -308,7 +308,8 @@
           "cost": 0.000146185,
           "inputTokens": 885,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 85
+          "outputTokens": 85,
+          "storedCost": 0.000146185
         }
       ],
       "modelsUsed": [
@@ -336,7 +337,8 @@
           "cost": 0.195703225,
           "inputTokens": 256605,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 97057
+          "outputTokens": 97057,
+          "storedCost": 0.195703225
         }
       ],
       "modelsUsed": [
@@ -364,7 +366,8 @@
           "cost": 0.07563958999999996,
           "inputTokens": 157310,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 54998
+          "outputTokens": 54998,
+          "storedCost": 0.07563958999999996
         }
       ],
       "modelsUsed": [
@@ -517,7 +520,8 @@
           "cost": 0.17187045500000003,
           "inputTokens": 393687,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 137057
+          "outputTokens": 137057,
+          "storedCost": 0.17187045500000003
         }
       ],
       "modelsUsed": [
@@ -574,7 +578,8 @@
           "cost": 0.2420953600000001,
           "inputTokens": 391734,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 164323
+          "outputTokens": 164323,
+          "storedCost": 0.2420953600000001
         }
       ],
       "modelsUsed": [
@@ -630,7 +635,8 @@
           "cost": 0.059250094999999996,
           "inputTokens": 154981,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 58268
+          "outputTokens": 58268,
+          "storedCost": 0.059250094999999996
         }
       ],
       "modelsUsed": [
@@ -695,7 +701,8 @@
           "cost": 0.24953945499999988,
           "inputTokens": 351581,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 191872
+          "outputTokens": 191872,
+          "storedCost": 0.24953945499999988
         }
       ],
       "modelsUsed": [
@@ -760,7 +767,8 @@
           "cost": 0.10905215999999997,
           "inputTokens": 286592,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 108192
+          "outputTokens": 108192,
+          "storedCost": 0.10905215999999997
         }
       ],
       "modelsUsed": [
@@ -809,7 +817,8 @@
           "cost": 0.17480732999999996,
           "inputTokens": 305938,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 191142
+          "outputTokens": 191142,
+          "storedCost": 0.17480732999999996
         }
       ],
       "modelsUsed": [
@@ -946,7 +955,8 @@
           "cost": 0.5691634849999997,
           "inputTokens": 859627,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 375818
+          "outputTokens": 375818,
+          "storedCost": 0.5691634849999997
         }
       ],
       "modelsUsed": [
@@ -1037,7 +1047,8 @@
           "cost": 0.25996984999999995,
           "inputTokens": 306194,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 124130
+          "outputTokens": 124130,
+          "storedCost": 0.25996984999999995
         }
       ],
       "modelsUsed": [
@@ -1363,7 +1374,8 @@
           "cost": 0.14278851,
           "inputTokens": 304884,
           "modelName": "[pi] glm-5.3-flash",
-          "outputTokens": 97989
+          "outputTokens": 97989,
+          "storedCost": 0.14278851
         }
       ],
       "modelsUsed": [
@@ -1378,24 +1390,108 @@
       "period": "2026-10-16",
       "totalCost": 67.62537705999998,
       "totalTokens": 218650224
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 1328614,
+      "cacheReadTokens": 67025550,
+      "inputTokens": 37473,
+      "metadata": {
+        "agents": [
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 930692,
+          "cacheReadTokens": 64249964,
+          "cost": 21.39786079999999,
+          "inputTokens": 642,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 194592
+        },
+        {
+          "cacheCreationTokens": 127148,
+          "cacheReadTokens": 643563,
+          "cost": 0.38394829999999996,
+          "inputTokens": 26,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 167
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 249344,
+          "cost": 0.33816159999999995,
+          "inputTokens": 36701,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 4581
+        },
+        {
+          "cacheCreationTokens": 270774,
+          "cacheReadTokens": 1882679,
+          "cost": 0.053985439999999996,
+          "inputTokens": 104,
+          "modelName": "claude-haiku-5-5",
+          "outputTokens": 2603
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-5-5",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 201943,
+      "period": "2026-10-17",
+      "totalCost": 22.17395613999999,
+      "totalTokens": 68593580
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 128282,
+      "cacheReadTokens": 785558,
+      "inputTokens": 12,
+      "metadata": {
+        "agents": [
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 128282,
+          "cacheReadTokens": 785558,
+          "cost": 0.8476096000000002,
+          "inputTokens": 12,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 2452
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5"
+      ],
+      "outputTokens": 2452,
+      "period": "2026-10-18",
+      "totalCost": 0.8476096000000002,
+      "totalTokens": 916304
     }
   ],
   "totals": {
-    "cacheCreationTokens": 63702885,
-    "cacheReadTokens": 2761472897,
-    "inputTokens": 13115210,
-    "outputTokens": 10219913,
-    "totalCost": 1218.1501848849998,
-    "totalTokens": 2848542061
+    "cacheCreationTokens": 65159781,
+    "cacheReadTokens": 2829284005,
+    "inputTokens": 13152695,
+    "outputTokens": 10424308,
+    "totalCost": 1241.1717506249997,
+    "totalTokens": 2918051945
   },
   "tools": [
     [
       "Claude Code",
-      1196.2085074849997
+      1218.8919116249997
     ],
     [
       "Codex",
-      21.354538800000004
+      21.692700400000003
     ],
     [
       "Gemini",
