@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "local-1",
-  "updatedAt": "2026-10-18T02:05:47.014Z",
+  "updatedAt": "2026-10-19T01:15:13.591Z",
   "daily": [
     {
       "agent": "all",
@@ -641,22 +641,21 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0,
+          "cost": 0.0004285,
           "inputTokens": 1312,
-          "missingPricing": true,
-          "modelName": "model_placeholder_m50",
+          "modelName": "gemini-3.1-flash-lite",
           "outputTokens": 67
         }
       ],
       "modelsUsed": [
         "claude-opus-4-6",
+        "gemini-3.1-flash-lite",
         "minimax-m3",
-        "model_placeholder_m50",
         "qwen3.6-plus"
       ],
       "outputTokens": 35654,
       "period": "2026-06-04",
-      "totalCost": 0.5588522300000001,
+      "totalCost": 0.5592807300000001,
       "totalTokens": 2970219
     },
     {
@@ -853,21 +852,20 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0,
+          "cost": 0.0010022499999999999,
           "inputTokens": 3619,
-          "missingPricing": true,
-          "modelName": "model_placeholder_m50",
+          "modelName": "gemini-3.1-flash-lite",
           "outputTokens": 65
         }
       ],
       "modelsUsed": [
         "claude-sonnet-4-6",
-        "model_placeholder_m50",
+        "gemini-3.1-flash-lite",
         "qwen3.7-plus"
       ],
       "outputTokens": 11790,
       "period": "2026-06-27",
-      "totalCost": 0.17824852,
+      "totalCost": 0.17925077,
       "totalTokens": 965122
     },
     {
@@ -3654,17 +3652,16 @@
     "cacheReadTokens": 7179203588,
     "inputTokens": 82089740,
     "outputTokens": 39285587,
-    "totalCost": 4013.1901282559406,
+    "totalCost": 4013.1915590059402,
     "totalTokens": 7461974463,
     "unpricedModels": [
-      "chat_model",
-      "model_placeholder_m50"
+      "chat_model"
     ]
   },
   "tools": [
     [
       "Claude Code",
-      3606.3243919059405
+      3606.32582265594
     ],
     [
       "Codex",
