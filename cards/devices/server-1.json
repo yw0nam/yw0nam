@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-10-23T01:20:48.074Z",
+  "updatedAt": "2026-10-24T01:20:36.319Z",
   "daily": [
     {
       "agent": "all",
@@ -397,7 +397,7 @@
       ],
       "outputTokens": 15815,
       "period": "2025-12-04",
-      "totalCost": 0.79138122,
+      "totalCost": 0.7913812199999999,
       "totalTokens": 907466
     },
     {
@@ -434,7 +434,7 @@
       ],
       "outputTokens": 11972,
       "period": "2025-12-05",
-      "totalCost": 1.21330404,
+      "totalCost": 1.2133040399999997,
       "totalTokens": 1027341
     },
     {
@@ -702,7 +702,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 52202,
-          "cost": 0.3163224,
+          "cost": 0.31632239999999995,
           "inputTokens": 68413,
           "modelName": "gemini-3-pro-preview",
           "outputTokens": 8160
@@ -8455,7 +8455,7 @@
     ],
     [
       "Gemini",
-      37.244080520000004
+      37.24408052
     ],
     [
       "Copilot",
