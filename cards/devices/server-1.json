@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-10-24T01:20:36.319Z",
+  "updatedAt": "2026-10-25T01:20:35.755Z",
   "daily": [
     {
       "agent": "all",
@@ -1679,7 +1679,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 2383830,
-          "cost": 1.30080113828,
+          "cost": 1.300755,
           "inputTokens": 165652,
           "modelName": "claude-sonnet-4.6",
           "outputTokens": 5910
@@ -1709,7 +1709,7 @@
       ],
       "outputTokens": 212887,
       "period": "2026-03-26",
-      "totalCost": 22.37881374828,
+      "totalCost": 22.378767609999997,
       "totalTokens": 26415925
     },
     {
@@ -1754,7 +1754,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 218565,
-          "cost": 0.21635345976999998,
+          "cost": 0.2163495,
           "inputTokens": 43755,
           "modelName": "claude-sonnet-4.6",
           "outputTokens": 1301
@@ -1765,7 +1765,7 @@
       ],
       "outputTokens": 1301,
       "period": "2026-03-30",
-      "totalCost": 0.21635345976999998,
+      "totalCost": 0.2163495,
       "totalTokens": 263621
     },
     {
@@ -3939,7 +3939,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 6423552,
-          "cost": 0.09836202599999999,
+          "cost": 0.540833568,
           "inputTokens": 126562,
           "modelName": "deepseek-v4-pro",
           "outputTokens": 23014
@@ -3971,7 +3971,7 @@
       ],
       "outputTokens": 118961,
       "period": "2026-05-26",
-      "totalCost": 25.951002426,
+      "totalCost": 26.393473968,
       "totalTokens": 24016199
     },
     {
@@ -4267,7 +4267,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 1979520,
-          "cost": 0.06672726,
+          "cost": 0.29651952000000004,
           "inputTokens": 93396,
           "modelName": "deepseek-v4-pro",
           "outputTokens": 21752
@@ -4290,7 +4290,7 @@
       ],
       "outputTokens": 220358,
       "period": "2026-06-01",
-      "totalCost": 34.26510246,
+      "totalCost": 34.49489472,
       "totalTokens": 49013973
     },
     {
@@ -4509,7 +4509,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 3502592,
-          "cost": 0.084588041,
+          "cost": 0.39799064799999995,
           "inputTokens": 126291,
           "modelName": "deepseek-v4-pro",
           "outputTokens": 19488
@@ -4532,7 +4532,7 @@
       ],
       "outputTokens": 91472,
       "period": "2026-06-05",
-      "totalCost": 11.070489191,
+      "totalCost": 11.383891798,
       "totalTokens": 19550107
     },
     {
@@ -4701,7 +4701,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 730919,
-          "cost": 0.2986105896,
+          "cost": 0.39432436000000004,
           "inputTokens": 877355,
           "modelName": "qwen3.7-plus",
           "outputTokens": 8841
@@ -4724,7 +4724,7 @@
       ],
       "outputTokens": 88103,
       "period": "2026-06-09",
-      "totalCost": 7.921217539599995,
+      "totalCost": 8.016931309999995,
       "totalTokens": 18711389
     },
     {
@@ -4751,7 +4751,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 2318517,
-          "cost": 0.9289213668,
+          "cost": 1.22487828,
           "inputTokens": 2745800,
           "modelName": "qwen3.7-plus",
           "outputTokens": 21136
@@ -4772,7 +4772,7 @@
       ],
       "outputTokens": 70467,
       "period": "2026-06-10",
-      "totalCost": 4.7468765168000004,
+      "totalCost": 5.042833430000001,
       "totalTokens": 12562394
     },
     {
@@ -4808,7 +4808,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 581959,
-          "cost": 0.1240985556,
+          "cost": 0.15274796000000002,
           "inputTokens": 300658,
           "modelName": "qwen3.7-plus",
           "outputTokens": 5754
@@ -4839,7 +4839,7 @@
       ],
       "outputTokens": 78878,
       "period": "2026-06-11",
-      "totalCost": 4.243018485200001,
+      "totalCost": 4.2716678896000015,
       "totalTokens": 10730550
     },
     {
@@ -5760,7 +5760,7 @@
         {
           "cacheCreationTokens": 4281,
           "cacheReadTokens": 197416,
-          "cost": 0.0237123789,
+          "cost": 0.02573794,
           "inputTokens": 19684,
           "modelName": "qwen3.7-plus",
           "outputTokens": 4892
@@ -5773,7 +5773,7 @@
       ],
       "outputTokens": 68694,
       "period": "2026-07-06",
-      "totalCost": 14.111892278900001,
+      "totalCost": 14.113917840000001,
       "totalTokens": 10524601
     },
     {
@@ -5867,7 +5867,7 @@
         {
           "cacheCreationTokens": 66080,
           "cacheReadTokens": 382384,
-          "cost": 0.053520279000000004,
+          "cost": 0.05755456,
           "inputTokens": 10236,
           "modelName": "qwen3.7-plus",
           "outputTokens": 3203,
@@ -5881,7 +5881,7 @@
       ],
       "outputTokens": 41527,
       "period": "2026-07-09",
-      "totalCost": 2.979369078999999,
+      "totalCost": 2.983403359999999,
       "totalTokens": 4535219
     },
     {
@@ -6151,7 +6151,7 @@
         {
           "cacheCreationTokens": 1776976,
           "cacheReadTokens": 1063265,
-          "cost": 0.7198574520000001,
+          "cost": 0.9785438,
           "inputTokens": 28865,
           "modelName": "qwen3.7-plus",
           "outputTokens": 22487
@@ -6159,7 +6159,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.00906366,
+          "cost": 0.0281622,
           "inputTokens": 19838,
           "modelName": "deepseek-v4-pro",
           "outputTokens": 340
@@ -6173,7 +6173,7 @@
       ],
       "outputTokens": 37520,
       "period": "2026-07-21",
-      "totalCost": 4.377837912000002,
+      "totalCost": 4.6556228000000015,
       "totalTokens": 8083314
     },
     {
@@ -6191,7 +6191,7 @@
         {
           "cacheCreationTokens": 4096204,
           "cacheReadTokens": 2036175,
-          "cost": 1.620931488000001,
+          "cost": 2.217746600000001,
           "inputTokens": 25214,
           "modelName": "qwen3.7-plus",
           "outputTokens": 48820
@@ -6211,7 +6211,7 @@
       ],
       "outputTokens": 69387,
       "period": "2026-07-22",
-      "totalCost": 2.9792266880000007,
+      "totalCost": 3.5760418000000005,
       "totalTokens": 7880218
     },
     {
@@ -6247,7 +6247,7 @@
         {
           "cacheCreationTokens": 3327707,
           "cacheReadTokens": 1683363,
-          "cost": 1.3248896787000006,
+          "cost": 1.8119416199999983,
           "inputTokens": 23656,
           "modelName": "qwen3.7-plus",
           "outputTokens": 44557
@@ -6269,7 +6269,7 @@
       ],
       "outputTokens": 287741,
       "period": "2026-07-23",
-      "totalCost": 24.0038760037,
+      "totalCost": 24.490927945,
       "totalTokens": 37373655
     },
     {
@@ -6297,7 +6297,7 @@
         {
           "cacheCreationTokens": 3327445,
           "cacheReadTokens": 1781369,
-          "cost": 1.3319384661000007,
+          "cost": 1.8180196599999983,
           "inputTokens": 21718,
           "modelName": "qwen3.7-plus",
           "outputTokens": 46472
@@ -6318,7 +6318,7 @@
       ],
       "outputTokens": 141070,
       "period": "2026-07-24",
-      "totalCost": 10.099880341100004,
+      "totalCost": 10.585961535000003,
       "totalTokens": 18937258
     },
     {
@@ -6335,7 +6335,7 @@
         {
           "cacheCreationTokens": 3330992,
           "cacheReadTokens": 1766162,
-          "cost": 1.3759801967999992,
+          "cost": 1.8810984799999997,
           "inputTokens": 169446,
           "modelName": "qwen3.7-plus",
           "outputTokens": 48236
@@ -6346,7 +6346,7 @@
       ],
       "outputTokens": 48236,
       "period": "2026-07-25",
-      "totalCost": 1.3759801967999992,
+      "totalCost": 1.8810984799999997,
       "totalTokens": 5314836
     },
     {
@@ -6364,7 +6364,7 @@
         {
           "cacheCreationTokens": 3327782,
           "cacheReadTokens": 1516446,
-          "cost": 1.3176728333999996,
+          "cost": 1.80838164,
           "inputTokens": 37950,
           "modelName": "qwen3.7-plus",
           "outputTokens": 42908
@@ -6384,7 +6384,7 @@
       ],
       "outputTokens": 53168,
       "period": "2026-07-26",
-      "totalCost": 2.0015120333999996,
+      "totalCost": 2.49222084,
       "totalTokens": 5691601
     },
     {
@@ -6402,7 +6402,7 @@
         {
           "cacheCreationTokens": 3517336,
           "cacheReadTokens": 1788827,
-          "cost": 1.4872249668000013,
+          "cost": 2.03798588,
           "inputTokens": 320752,
           "modelName": "qwen3.7-plus",
           "outputTokens": 49665
@@ -6423,7 +6423,7 @@
       ],
       "outputTokens": 55696,
       "period": "2026-07-27",
-      "totalCost": 2.046424216800001,
+      "totalCost": 2.5971851299999997,
       "totalTokens": 6410468
     },
     {
@@ -6449,7 +6449,7 @@
         {
           "cacheCreationTokens": 3802216,
           "cacheReadTokens": 1645327,
-          "cost": 1.4868186048000005,
+          "cost": 2.0431494799999994,
           "inputTokens": 18715,
           "modelName": "qwen3.7-plus",
           "outputTokens": 42964
@@ -6470,7 +6470,7 @@
       ],
       "outputTokens": 164120,
       "period": "2026-07-28",
-      "totalCost": 19.427383804799998,
+      "totalCost": 19.98371468,
       "totalTokens": 36513871
     },
     {
@@ -6496,7 +6496,7 @@
         {
           "cacheCreationTokens": 3652798,
           "cacheReadTokens": 1385945,
-          "cost": 1.4253358650000014,
+          "cost": 1.9663152,
           "inputTokens": 23736,
           "modelName": "qwen3.7-plus",
           "outputTokens": 46865
@@ -6517,7 +6517,7 @@
       ],
       "outputTokens": 120964,
       "period": "2026-07-29",
-      "totalCost": 11.116965465,
+      "totalCost": 11.6579448,
       "totalTokens": 21962128
     },
     {
@@ -6533,20 +6533,20 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreationTokens": 3906063,
+          "cacheReadTokens": 1759538,
+          "cost": 2.1468042200000004,
+          "inputTokens": 122546,
+          "modelName": "qwen3.7-plus",
+          "outputTokens": 46483
+        },
+        {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 3511296,
           "cost": 2.1017944,
           "inputTokens": 126139,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 9636
-        },
-        {
-          "cacheCreationTokens": 3906063,
-          "cacheReadTokens": 1759538,
-          "cost": 1.5631159466999993,
-          "inputTokens": 122546,
-          "modelName": "qwen3.7-plus",
-          "outputTokens": 46483
         }
       ],
       "modelsUsed": [
@@ -6555,7 +6555,7 @@
       ],
       "outputTokens": 56119,
       "period": "2026-07-30",
-      "totalCost": 3.6649103466999993,
+      "totalCost": 4.248598620000001,
       "totalTokens": 9481701
     },
     {
@@ -6572,7 +6572,7 @@
         {
           "cacheCreationTokens": 3830044,
           "cacheReadTokens": 2292914,
-          "cost": 1.7979377555999994,
+          "cost": 2.4585497599999995,
           "inputTokens": 882292,
           "modelName": "qwen3.7-plus",
           "outputTokens": 61809
@@ -6583,7 +6583,7 @@
       ],
       "outputTokens": 61809,
       "period": "2026-07-31",
-      "totalCost": 1.7979377555999994,
+      "totalCost": 2.4585497599999995,
       "totalTokens": 7067059
     },
     {
@@ -6600,7 +6600,7 @@
         {
           "cacheCreationTokens": 3689415,
           "cacheReadTokens": 1680529,
-          "cost": 1.4580896151,
+          "cost": 2.00099106,
           "inputTokens": 59168,
           "modelName": "qwen3.7-plus",
           "outputTokens": 40872
@@ -6611,7 +6611,7 @@
       ],
       "outputTokens": 40872,
       "period": "2026-08-01",
-      "totalCost": 1.4580896151,
+      "totalCost": 2.00099106,
       "totalTokens": 5469984
     },
     {
@@ -6628,7 +6628,7 @@
         {
           "cacheCreationTokens": 3689383,
           "cacheReadTokens": 1480258,
-          "cost": 1.4738815587,
+          "cost": 2.0314018199999997,
           "inputTokens": 153578,
           "modelName": "qwen3.7-plus",
           "outputTokens": 41293
@@ -6639,7 +6639,7 @@
       ],
       "outputTokens": 41293,
       "period": "2026-08-02",
-      "totalCost": 1.4738815587,
+      "totalCost": 2.0314018199999997,
       "totalTokens": 5364512
     },
     {
@@ -6656,7 +6656,7 @@
         {
           "cacheCreationTokens": 3690308,
           "cacheReadTokens": 1572811,
-          "cost": 1.446252566399999,
+          "cost": 1.9885096399999995,
           "inputTokens": 30772,
           "modelName": "qwen3.7-plus",
           "outputTokens": 42584
@@ -6676,7 +6676,7 @@
       ],
       "outputTokens": 51021,
       "period": "2026-08-03",
-      "totalCost": 1.783647066399999,
+      "totalCost": 2.3259041400000005,
       "totalTokens": 5716845
     },
     {
@@ -6702,7 +6702,7 @@
         {
           "cacheCreationTokens": 2533614,
           "cacheReadTokens": 1065056,
-          "cost": 0.9934216194,
+          "cost": 1.3665064400000004,
           "inputTokens": 35479,
           "modelName": "qwen3.7-plus",
           "outputTokens": 26816
@@ -6723,7 +6723,7 @@
       ],
       "outputTokens": 82942,
       "period": "2026-08-04",
-      "totalCost": 5.5680516194,
+      "totalCost": 5.94113644,
       "totalTokens": 8260487
     },
     {
@@ -6908,7 +6908,7 @@
         {
           "cacheCreationTokens": 15443,
           "cacheReadTokens": 0,
-          "cost": 0.0058469175,
+          "cost": 0.0082935,
           "inputTokens": 6,
           "modelName": "qwen3.7-plus",
           "outputTokens": 356
@@ -6921,7 +6921,7 @@
       ],
       "outputTokens": 122894,
       "period": "2026-08-11",
-      "totalCost": 12.116865317499999,
+      "totalCost": 12.1193119,
       "totalTokens": 19186211
     },
     {
@@ -8438,7 +8438,7 @@
     "cacheReadTokens": 4232770525,
     "inputTokens": 159194033,
     "outputTokens": 22924809,
-    "totalCost": 2696.8640519593505,
+    "totalCost": 2706.0301900094005,
     "totalTokens": 4598152730,
     "unpricedModels": [
       "chat_model"
@@ -8447,7 +8447,7 @@
   "tools": [
     [
       "Claude Code",
-      2304.1728808613007
+      2313.3390690094006
     ],
     [
       "Codex",
@@ -8459,7 +8459,7 @@
     ],
     [
       "Copilot",
-      127.25006407805
+      127.25001398
     ]
   ]
 }
