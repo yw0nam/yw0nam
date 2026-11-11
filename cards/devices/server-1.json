@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-11-10T01:20:31.401Z",
+  "updatedAt": "2026-11-11T01:20:44.150Z",
   "daily": [
     {
       "agent": "all",
@@ -6740,6 +6740,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 213748,
           "cacheCreationTokens": 213748,
           "cacheReadTokens": 9400519,
           "cost": 9.1634145,
@@ -6787,6 +6788,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 153862,
           "cacheCreationTokens": 153862,
           "cacheReadTokens": 3000621,
           "cost": 4.1988805000000005,
@@ -6965,6 +6967,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 520579,
           "cacheCreationTokens": 520579,
           "cacheReadTokens": 21183667,
           "cost": 37.38310699999999,
@@ -7334,6 +7337,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 902989,
           "cacheCreationTokens": 1033824,
           "cacheReadTokens": 45653228,
           "cost": 22.251836600000004,
@@ -7342,6 +7346,7 @@
           "outputTokens": 262048
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
           "cost": 9.21952,
@@ -7350,6 +7355,7 @@
           "outputTokens": 26611
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 470544,
           "cacheReadTokens": 999427,
           "cost": 1.2849187,
@@ -7410,6 +7416,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 2218009,
           "cacheCreationTokens": 2836121,
           "cacheReadTokens": 30164868,
           "cost": 28.877725600000012,
@@ -7418,6 +7425,7 @@
           "outputTokens": 100408
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
           "cost": 6.7583,
@@ -7468,6 +7476,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1424816,
           "cacheCreationTokens": 2399758,
           "cacheReadTokens": 118857389,
           "cost": 49.677503800000004,
@@ -7476,6 +7485,7 @@
           "outputTokens": 481343
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 440730,
           "cacheReadTokens": 1511744,
           "cost": 18.637230999999996,
@@ -7492,6 +7502,7 @@
           "outputTokens": 39950
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 198092,
           "cacheReadTokens": 3006793,
           "cost": 0.8015113000000001,
@@ -7533,6 +7544,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1075346,
           "cacheCreationTokens": 3635483,
           "cacheReadTokens": 204851656,
           "cost": 69.50501219999997,
@@ -7541,6 +7553,7 @@
           "outputTokens": 356159
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 320168,
           "cacheReadTokens": 707023,
           "cost": 10.857505749999998,
@@ -7557,6 +7570,7 @@
           "outputTokens": 92904
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 265722,
           "cacheReadTokens": 2335891,
           "cost": 0.9093741000000001,
@@ -7589,6 +7603,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1851842,
           "cacheCreationTokens": 5357033,
           "cacheReadTokens": 278095961,
           "cost": 96.97741519999997,
@@ -7597,6 +7612,7 @@
           "outputTokens": 450315
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2902354,
           "cacheReadTokens": 28324410,
           "cost": 10.187803999999998,
@@ -7605,6 +7621,7 @@
           "outputTokens": 9767
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
           "cost": 3.6795999999999998,
@@ -7645,6 +7662,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 262137,
           "cacheCreationTokens": 262137,
           "cacheReadTokens": 9612646,
           "cost": 13.356721499999995,
@@ -7653,6 +7671,7 @@
           "outputTokens": 59967
         },
         {
+          "cacheCreation1hTokens": 15925,
           "cacheCreationTokens": 15925,
           "cacheReadTokens": 5827140,
           "cost": 1.5071599999999998,
@@ -7661,6 +7680,7 @@
           "outputTokens": 10711
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 84954,
           "cacheReadTokens": 97454,
           "cost": 0.2280764,
@@ -7701,6 +7721,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1380342,
           "cacheCreationTokens": 8313412,
           "cacheReadTokens": 114104334,
           "cost": 74.88456880000004,
@@ -7709,6 +7730,7 @@
           "outputTokens": 317474
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 78718,
           "cacheReadTokens": 757191,
           "cost": 6.685862750000002,
@@ -7717,6 +7739,7 @@
           "outputTokens": 18993
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 645649,
           "cacheReadTokens": 3409644,
           "cost": 1.9943189000000008,
@@ -7757,6 +7780,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1218977,
           "cacheCreationTokens": 5020387,
           "cacheReadTokens": 133946016,
           "cost": 63.20190519999996,
@@ -7765,6 +7789,7 @@
           "outputTokens": 382297
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 347474,
           "cacheReadTokens": 1735769,
           "cost": 12.313887249999997,
@@ -7773,6 +7798,7 @@
           "outputTokens": 33656
         },
         {
+          "cacheCreation1hTokens": 52615,
           "cacheCreationTokens": 1101891,
           "cacheReadTokens": 14712517,
           "cost": 4.458665700000003,
@@ -7814,6 +7840,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 399410,
           "cacheCreationTokens": 399410,
           "cacheReadTokens": 2043479,
           "cost": 3.6760477999999996,
@@ -7861,6 +7888,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 206414,
           "cacheCreationTokens": 206414,
           "cacheReadTokens": 705597,
           "cost": 1.8825033999999998,
@@ -7890,6 +7918,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 635627,
           "cacheCreationTokens": 635627,
           "cacheReadTokens": 63929703,
           "cost": 43.637445750000005,
@@ -7898,6 +7927,7 @@
           "outputTokens": 243966
         },
         {
+          "cacheCreation1hTokens": 323721,
           "cacheCreationTokens": 815364,
           "cacheReadTokens": 37851419,
           "cost": 15.513690800000004,
@@ -7906,6 +7936,7 @@
           "outputTokens": 144668
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1485788,
           "cacheReadTokens": 21392304,
           "cost": 5.932578400000002,
@@ -7946,6 +7977,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1198322,
           "cacheCreationTokens": 1198322,
           "cacheReadTokens": 75507154,
           "cost": 63.85339849999998,
@@ -7954,6 +7986,7 @@
           "outputTokens": 418587
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1361074,
           "cacheReadTokens": 28883314,
           "cost": 6.3647664000000015,
@@ -7970,6 +8003,7 @@
           "outputTokens": 42914
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 431708,
           "cacheReadTokens": 3717317,
           "cost": 0.9247506999999997,
@@ -7978,6 +8012,7 @@
           "outputTokens": 2544
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 128976,
           "cacheReadTokens": 739259,
           "cost": 0.8010638,
@@ -7986,6 +8021,7 @@
           "outputTokens": 413
         },
         {
+          "cacheCreation1hTokens": 15766,
           "cacheCreationTokens": 15766,
           "cacheReadTokens": 11054,
           "cost": 0.0033994399999999997,
@@ -8020,6 +8056,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 765279,
           "cacheCreationTokens": 994879,
           "cacheReadTokens": 99830329,
           "cost": 34.226237800000035,
@@ -8028,6 +8065,7 @@
           "outputTokens": 349325
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2481119,
           "cacheReadTokens": 52435752,
           "cost": 11.551250699999999,
@@ -8036,6 +8074,7 @@
           "outputTokens": 10303
         },
         {
+          "cacheCreation1hTokens": 122157,
           "cacheCreationTokens": 122157,
           "cacheReadTokens": 1317486,
           "cost": 3.1886515000000006,
@@ -8078,6 +8117,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 352954,
           "cacheReadTokens": 24170347,
           "cost": 17.610931749999995,
@@ -8086,6 +8126,7 @@
           "outputTokens": 142648
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 706649,
           "cacheReadTokens": 18705175,
           "cost": 8.901623999999998,
@@ -8120,6 +8161,7 @@
           "storedCost": 0.44248454999999987
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 167126,
           "cacheReadTokens": 4617420,
           "cost": 0.25533653,
@@ -8128,6 +8170,7 @@
           "outputTokens": 271
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 68082,
           "cacheReadTokens": 285007,
           "cost": 0.2004217,
@@ -8162,6 +8205,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 349265,
           "cacheReadTokens": 34457689,
           "cost": 11.2109828,
@@ -8170,6 +8214,7 @@
           "outputTokens": 128566
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 19926,
           "cacheReadTokens": 202469,
           "cost": 0.0940959,
@@ -8202,6 +8247,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1540875,
           "cacheReadTokens": 75397163,
           "cost": 28.091743599999997,
@@ -8218,6 +8264,7 @@
           "outputTokens": 12021
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 85123,
           "cacheReadTokens": 930695,
           "cost": 0.347229,
@@ -8235,6 +8282,7 @@
           "storedCost": 0.18851841
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 272255,
           "cacheReadTokens": 1755681,
           "cost": 0.09682146500000002,
@@ -8279,6 +8327,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 579179,
           "cacheCreationTokens": 920098,
           "cacheReadTokens": 27579087,
           "cost": 14.817284400000005,
@@ -8287,6 +8336,7 @@
           "outputTokens": 148072
         },
         {
+          "cacheCreation1hTokens": 51921,
           "cacheCreationTokens": 51921,
           "cacheReadTokens": 1469040,
           "cost": 0.4536760000000001,
@@ -8336,6 +8386,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 410469,
           "cacheCreationTokens": 410469,
           "cacheReadTokens": 40916450,
           "cost": 14.524529999999995,
@@ -8344,6 +8395,7 @@
           "outputTokens": 152788
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1286392,
           "cacheReadTokens": 13924778,
           "cost": 6.169193799999998,
@@ -8360,6 +8412,7 @@
           "outputTokens": 29814
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 51364,
           "cacheReadTokens": 528780,
           "cost": 0.0185696,
@@ -8392,6 +8445,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 520365,
           "cacheCreationTokens": 520365,
           "cacheReadTokens": 58527743,
           "cost": 18.89261260000001,
@@ -8400,6 +8454,7 @@
           "outputTokens": 151112
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 388909,
           "cacheReadTokens": 3173176,
           "cost": 1.8294940999999998,
@@ -8438,6 +8493,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 54333,
           "cacheCreationTokens": 54333,
           "cacheReadTokens": 53249,
           "cost": 0.2358549,
