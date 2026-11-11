@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-2",
-  "updatedAt": "2026-11-10T01:25:11.870Z",
+  "updatedAt": "2026-11-11T01:25:11.689Z",
   "daily": [
     {
       "agent": "all",
@@ -479,6 +479,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 738678,
           "cacheCreationTokens": 738678,
           "cacheReadTokens": 76457683,
           "cost": 26.77176859999997,
@@ -487,6 +488,7 @@
           "outputTokens": 278384
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
           "cost": 10.5324,
@@ -495,6 +497,7 @@
           "outputTokens": 30259
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 706204,
           "cacheReadTokens": 19174717,
           "cost": 5.787607400000001,
@@ -545,6 +548,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 360918,
           "cacheCreationTokens": 360918,
           "cacheReadTokens": 29491599,
           "cost": 11.059671799999995,
@@ -553,6 +557,7 @@
           "outputTokens": 113620
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 255515,
           "cacheReadTokens": 4176013,
           "cost": 1.5155040999999996,
@@ -593,6 +598,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 286209,
           "cacheCreationTokens": 286209,
           "cacheReadTokens": 23381392,
           "cost": 8.797246399999997,
@@ -601,6 +607,7 @@
           "outputTokens": 91512
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 409583,
           "cacheReadTokens": 5161657,
           "cost": 2.0735609000000004,
@@ -641,6 +648,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 445588,
           "cacheCreationTokens": 445588,
           "cacheReadTokens": 39325751,
           "cost": 14.1891462,
@@ -657,6 +665,7 @@
           "outputTokens": 16782
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 173605,
           "cacheReadTokens": 2358817,
           "cost": 0.9117039000000001,
@@ -689,6 +698,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1215090,
           "cacheCreationTokens": 2119238,
           "cacheReadTokens": 126441412,
           "cost": 50.0243944,
@@ -697,6 +707,7 @@
           "outputTokens": 524389
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2860448,
           "cacheReadTokens": 128884560,
           "cost": 34.52505999999999,
@@ -705,6 +716,7 @@
           "outputTokens": 159502
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 429896,
           "cacheReadTokens": 4094230,
           "cost": 9.164607499999999,
@@ -713,6 +725,7 @@
           "outputTokens": 15198
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 354795,
           "cacheReadTokens": 4258206,
           "cost": 1.3205721000000001,
@@ -765,6 +778,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1120794,
           "cacheCreationTokens": 4453713,
           "cacheReadTokens": 236419698,
           "cost": 83.20236660000013,
@@ -773,6 +787,7 @@
           "outputTokens": 513846
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1776479,
           "cacheReadTokens": 159643140,
           "cost": 38.43065150000001,
@@ -781,6 +796,7 @@
           "outputTokens": 205831
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 138005,
           "cacheReadTokens": 856343,
           "cost": 9.284848250000001,
@@ -789,6 +805,7 @@
           "outputTokens": 19104
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 309046,
           "cacheReadTokens": 7089223,
           "cost": 1.4880533000000007,
@@ -857,6 +874,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 554781,
           "cacheCreationTokens": 1342536,
           "cacheReadTokens": 20841205,
           "cost": 14.154528000000006,
@@ -865,6 +883,7 @@
           "outputTokens": 80406
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 142562,
           "cacheReadTokens": 1189933,
           "cost": 0.4853743,
@@ -895,6 +914,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1893634,
           "cacheCreationTokens": 2674046,
           "cacheReadTokens": 160883619,
           "cost": 62.148563800000005,
@@ -903,6 +923,7 @@
           "outputTokens": 545697
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1915716,
           "cacheReadTokens": 37842135,
           "cost": 8.701517500000001,
@@ -911,6 +932,7 @@
           "outputTokens": 12621
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 792808,
           "cacheReadTokens": 19995317,
           "cost": 6.148385399999995,
@@ -927,6 +949,7 @@
           "outputTokens": 17300
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1070720,
           "cacheReadTokens": 16053621,
           "cost": 0.5583422499999997,
@@ -959,6 +982,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 942621,
           "cacheCreationTokens": 2770202,
           "cacheReadTokens": 132586882,
           "cost": 49.330697400000005,
@@ -967,6 +991,7 @@
           "outputTokens": 306466
         },
         {
+          "cacheCreation1hTokens": 184934,
           "cacheCreationTokens": 184934,
           "cacheReadTokens": 13838529,
           "cost": 10.780242249999997,
@@ -975,6 +1000,7 @@
           "outputTokens": 72001
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2520436,
           "cacheReadTokens": 38538091,
           "cost": 10.30602709999999,
@@ -983,6 +1009,7 @@
           "outputTokens": 14946
         },
         {
+          "cacheCreation1hTokens": 112267,
           "cacheCreationTokens": 179425,
           "cacheReadTokens": 1192026,
           "cost": 0.047453810000000006,
@@ -1014,6 +1041,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1304451,
           "cacheCreationTokens": 6133106,
           "cacheReadTokens": 253183702,
           "cost": 93.20216740000008,
@@ -1022,6 +1050,7 @@
           "outputTokens": 398766
         },
         {
+          "cacheCreation1hTokens": 224038,
           "cacheCreationTokens": 2174322,
           "cacheReadTokens": 38878165,
           "cost": 10.230766500000003,
@@ -1030,6 +1059,7 @@
           "outputTokens": 56918
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 141316,
           "cacheReadTokens": 850288,
           "cost": 0.02621668,
@@ -1060,6 +1090,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 447846,
           "cacheCreationTokens": 5873864,
           "cacheReadTokens": 230673659,
           "cost": 87.56636579999986,
@@ -1068,6 +1099,7 @@
           "outputTokens": 535462
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1980850,
           "cacheReadTokens": 42203854,
           "cost": 9.222308400000008,
@@ -1076,6 +1108,7 @@
           "outputTokens": 4847
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 142641,
           "cacheReadTokens": 631422,
           "cost": 0.024707545,
@@ -1108,6 +1141,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2478516,
           "cacheReadTokens": 170795687,
           "cost": 58.566981399999996,
@@ -1116,6 +1150,7 @@
           "outputTokens": 600450
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1883486,
           "cacheReadTokens": 21797991,
           "cost": 6.960836099999998,
@@ -1140,6 +1175,7 @@
           "outputTokens": 6090
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1076012,
           "cacheReadTokens": 9573047,
           "cost": 0.2944306500000001,
@@ -1183,6 +1219,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 930692,
           "cacheReadTokens": 64249964,
           "cost": 21.39786079999999,
@@ -1191,6 +1228,7 @@
           "outputTokens": 194592
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 127148,
           "cacheReadTokens": 643563,
           "cost": 0.38394829999999996,
@@ -1207,6 +1245,7 @@
           "outputTokens": 4581
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 270774,
           "cacheReadTokens": 1882679,
           "cost": 0.053985439999999996,
@@ -1238,6 +1277,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 787576,
           "cacheReadTokens": 12053392,
           "cost": 7.378746400000001,
@@ -1268,6 +1308,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 780323,
           "cacheReadTokens": 70124075,
           "cost": 42.40130624999997,
@@ -1276,6 +1317,7 @@
           "outputTokens": 300951
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2597755,
           "cacheReadTokens": 75776622,
           "cost": 32.219587400000044,
@@ -1284,6 +1326,7 @@
           "outputTokens": 203614
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 769694,
           "cacheReadTokens": 8629729,
           "cost": 2.9006498999999994,
@@ -1309,6 +1352,7 @@
           "storedCost": 0.14061283500000005
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 499177,
           "cacheReadTokens": 2125423,
           "cost": 0.084298255,
@@ -1343,6 +1387,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1204748,
           "cacheReadTokens": 80248016,
           "cost": 26.224267200000018,
@@ -1351,6 +1396,7 @@
           "outputTokens": 207407
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 380587,
           "cacheReadTokens": 30394385,
           "cost": 18.949613750000005,
@@ -1359,6 +1405,7 @@
           "outputTokens": 131298
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1200744,
           "cacheReadTokens": 15276889,
           "cost": 4.965524900000001,
@@ -1367,6 +1414,7 @@
           "outputTokens": 43542
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 304816,
           "cacheReadTokens": 2240399,
           "cost": 0.06813563,
@@ -1418,6 +1466,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1584272,
           "cacheReadTokens": 107896100,
           "cost": 39.991331999999986,
@@ -1426,6 +1475,7 @@
           "outputTokens": 524290
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1483133,
           "cacheReadTokens": 18600020,
           "cost": 5.806582499999999,
@@ -1442,6 +1492,7 @@
           "outputTokens": 12836
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 594880,
           "cacheReadTokens": 6995507,
           "cost": 0.39020571000000015,
@@ -1476,6 +1527,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2323461,
           "cacheReadTokens": 195587358,
           "cost": 59.68288860000006,
@@ -1484,6 +1536,7 @@
           "outputTokens": 447056
         },
         {
+          "cacheCreation1hTokens": 397999,
           "cacheCreationTokens": 709590,
           "cacheReadTokens": 23931586,
           "cost": 24.001113999999987,
@@ -1492,6 +1545,7 @@
           "outputTokens": 122879
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2236879,
           "cacheReadTokens": 36643784,
           "cost": 9.304919900000003,
@@ -1508,6 +1562,7 @@
           "outputTokens": 44910
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 986952,
           "cacheReadTokens": 12203205,
           "cost": 0.6017785300000004,
@@ -1563,6 +1618,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 4420440,
           "cacheReadTokens": 290926883,
           "cost": 92.29932859999998,
@@ -1571,6 +1627,7 @@
           "outputTokens": 599932
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 590746,
           "cacheReadTokens": 10570390,
           "cost": 2.5571159999999997,
@@ -1605,6 +1662,7 @@
           "storedCost": 0.5802996649999996
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 173651,
           "cacheReadTokens": 1439217,
           "cost": 0.050193945000000004,
@@ -1641,6 +1699,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1678829,
           "cacheCreationTokens": 3165466,
           "cacheReadTokens": 186057950,
           "cost": 71.61284300000007,
@@ -1649,6 +1708,7 @@
           "outputTokens": 676427
         },
         {
+          "cacheCreation1hTokens": 993507,
           "cacheCreationTokens": 993507,
           "cacheReadTokens": 101626562,
           "cost": 66.50005050000003,
@@ -1657,6 +1717,7 @@
           "outputTokens": 422929
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 4806625,
           "cacheReadTokens": 80448193,
           "cost": 25.28809380000001,
@@ -1682,6 +1743,7 @@
           "storedCost": 1.4851891449999988
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 943176,
           "cacheReadTokens": 7911283,
           "cost": 0.56046703,
@@ -1728,6 +1790,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 622908,
           "cacheCreationTokens": 622908,
           "cacheReadTokens": 75026429,
           "cost": 41.24758725,
@@ -1736,6 +1799,7 @@
           "outputTokens": 199804
         },
         {
+          "cacheCreation1hTokens": 557248,
           "cacheCreationTokens": 1932512,
           "cacheReadTokens": 96247052,
           "cost": 38.259490399999976,
@@ -1744,6 +1808,7 @@
           "outputTokens": 383520
         },
         {
+          "cacheCreation1hTokens": 494819,
           "cacheCreationTokens": 2534164,
           "cacheReadTokens": 56358123,
           "cost": 16.94840080000001,
@@ -1786,6 +1851,7 @@
           "outputTokens": 7994
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 53494,
           "cacheReadTokens": 135704,
           "cost": 0.01000509,
@@ -1823,6 +1889,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1227744,
           "cacheCreationTokens": 1227744,
           "cacheReadTokens": 121317499,
           "cost": 41.59342379999998,
@@ -1831,6 +1898,7 @@
           "outputTokens": 375195
         },
         {
+          "cacheCreation1hTokens": 90773,
           "cacheCreationTokens": 979770,
           "cacheReadTokens": 22557293,
           "cost": 6.630141799999999,
@@ -1839,6 +1907,7 @@
           "outputTokens": 178796
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1355401,
           "cacheReadTokens": 43835944,
           "cost": 2.880433745000002,
@@ -1892,6 +1961,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1901309,
           "cacheCreationTokens": 5459196,
           "cacheReadTokens": 231185146,
           "cost": 103.82992819999993,
@@ -1900,6 +1970,7 @@
           "outputTokens": 1229042
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1265126,
           "cacheReadTokens": 14946363,
           "cost": 7.163855300000005,
@@ -1908,6 +1979,7 @@
           "outputTokens": 250544
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1739148,
           "cacheReadTokens": 44098204,
           "cost": 2.706250980000002,
@@ -1980,6 +2052,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1758554,
           "cacheCreationTokens": 6674684,
           "cacheReadTokens": 385076242,
           "cost": 152.13434239999984,
@@ -1988,6 +2061,7 @@
           "outputTokens": 1822615
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 677097,
           "cacheReadTokens": 21334898,
           "cost": 5.573680299999999,
@@ -2031,6 +2105,7 @@
           "storedCost": 0.1894507080000001
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 354778,
           "cacheReadTokens": 1662945,
           "cost": 0.08793969999999998,
@@ -2065,6 +2140,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 84762,
           "cacheCreationTokens": 998924,
           "cacheReadTokens": 64806316,
           "cost": 24.588045200000007,
@@ -2096,6 +2172,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 2710415,
           "cacheCreationTokens": 11930491,
           "cacheReadTokens": 602647701,
           "cost": 242.77840819999977,
@@ -2104,6 +2181,7 @@
           "outputTokens": 2721886
         },
         {
+          "cacheCreation1hTokens": 39898,
           "cacheCreationTokens": 756432,
           "cacheReadTokens": 8369730,
           "cost": 3.718224000000001,
@@ -2112,6 +2190,7 @@
           "outputTokens": 92990
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 169478,
           "cacheReadTokens": 782912,
           "cost": 3.525133,
@@ -2153,6 +2232,7 @@
           "outputTokens": 84952
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 661066,
           "cacheReadTokens": 3986040,
           "cost": 0.1771860499999999,
@@ -2201,6 +2281,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 2366786,
           "cacheCreationTokens": 4246147,
           "cacheReadTokens": 291067102,
           "cost": 109.96898539999981,
@@ -2209,6 +2290,7 @@
           "outputTokens": 1170598
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2958601,
           "cacheReadTokens": 59641336,
           "cost": 18.08583609999999,
@@ -2217,6 +2299,7 @@
           "outputTokens": 472238
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 794129,
           "cacheReadTokens": 7824415,
           "cost": 16.15611625,
@@ -2242,6 +2325,7 @@
           "storedCost": 0.7000202500000001
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1198371,
           "cacheReadTokens": 13854004,
           "cost": 0.5864047949999999,
@@ -2296,6 +2380,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 3839397,
           "cacheCreationTokens": 8154925,
           "cacheReadTokens": 384851704,
           "cost": 165.76096879999974,
@@ -2304,6 +2389,7 @@
           "outputTokens": 1824099
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 3641671,
           "cacheReadTokens": 55698411,
           "cost": 4.470659805,
@@ -2312,6 +2398,7 @@
           "outputTokens": 843922
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 174173,
           "cacheReadTokens": 1430894,
           "cost": 3.573386,
@@ -2320,6 +2407,7 @@
           "outputTokens": 20680
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 559087,
           "cacheReadTokens": 4287292,
           "cost": 2.3977487,
@@ -2382,6 +2470,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 2627180,
           "cacheCreationTokens": 7133685,
           "cacheReadTokens": 396635574,
           "cost": 149.2543438000003,
@@ -2398,6 +2487,7 @@
           "outputTokens": 252073
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1125588,
           "cacheReadTokens": 8131255,
           "cost": 4.742635499999999,
@@ -2423,6 +2513,7 @@
           "outputTokens": 244664
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 862630,
           "cacheReadTokens": 5140179,
           "cost": 0.2695039,
@@ -2459,6 +2550,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 2236082,
           "cacheCreationTokens": 9207421,
           "cacheReadTokens": 342917812,
           "cost": 157.5693453999999,
@@ -2467,6 +2559,7 @@
           "outputTokens": 1811300
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1023457,
           "cacheReadTokens": 16923696,
           "cost": 6.549276099999999,
@@ -2491,6 +2584,7 @@
           "outputTokens": 12320
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 841161,
           "cacheReadTokens": 7816640,
           "cost": 0.310263425,
@@ -2534,6 +2628,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 3462508,
           "cacheCreationTokens": 8375424,
           "cacheReadTokens": 550388373,
           "cost": 201.0894626000004,
@@ -2542,6 +2637,7 @@
           "outputTokens": 1936342
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 4317769,
           "cacheReadTokens": 113977590,
           "cost": 30.62736749999999,
@@ -2550,6 +2646,7 @@
           "outputTokens": 843057
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 2872786,
           "cacheReadTokens": 41880943,
           "cost": 2.434170539999998,
@@ -2579,58 +2676,150 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 593727,
-      "cacheReadTokens": 8301103,
-      "inputTokens": 266,
+      "cacheCreationTokens": 9708488,
+      "cacheReadTokens": 389062843,
+      "inputTokens": 441217,
       "metadata": {
         "agents": [
-          "claude"
+          "claude",
+          "codex",
+          "pi"
         ]
       },
       "modelBreakdowns": [
         {
-          "cacheCreationTokens": 240723,
-          "cacheReadTokens": 5358003,
-          "cost": 6.581640600000002,
-          "inputTokens": 136,
+          "cacheCreation1hTokens": 1457285,
+          "cacheCreationTokens": 1781700,
+          "cacheReadTokens": 170512413,
+          "cost": 84.23835259999997,
+          "inputTokens": 1330,
           "modelName": "claude-fable-5-2",
-          "outputTokens": 50110
+          "outputTokens": 589113
         },
         {
-          "cacheCreationTokens": 353004,
-          "cacheReadTokens": 2943100,
-          "cost": 0.16777280000000003,
-          "inputTokens": 130,
+          "cacheCreation1hTokens": 177111,
+          "cacheCreationTokens": 4692264,
+          "cacheReadTokens": 169494129,
+          "cost": 75.0197228,
+          "inputTokens": 2166,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 855979
+        },
+        {
+          "cacheCreation1hTokens": 0,
+          "cacheCreationTokens": 1107005,
+          "cacheReadTokens": 20550420,
+          "cost": 6.6752444999999945,
+          "inputTokens": 440,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 185181
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3675776,
+          "cost": 1.4574175999999999,
+          "inputTokens": 386670,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 31650
+        },
+        {
+          "cacheCreation1hTokens": 0,
+          "cacheCreationTokens": 2127519,
+          "cacheReadTokens": 23956121,
+          "cost": 1.274029205,
+          "inputTokens": 782,
           "modelName": "claude-haiku-5-5",
-          "outputTokens": 67805
+          "outputTokens": 424595
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 873984,
+          "cost": 0.04823036999999999,
+          "inputTokens": 49829,
+          "modelName": "[pi] glm-5.3-flash",
+          "outputTokens": 29073,
+          "storedCost": 0.04823036999999999
         }
       ],
       "modelsUsed": [
+        "[pi] glm-5.3-flash",
         "claude-fable-5-2",
-        "claude-haiku-5-5"
+        "claude-haiku-5-5",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gpt-6.1-sol"
       ],
-      "outputTokens": 117915,
+      "outputTokens": 2115591,
       "period": "2026-11-10",
-      "totalCost": 6.749413399999999,
-      "totalTokens": 9013011
+      "totalCost": 168.71299707499992,
+      "totalTokens": 401328139
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 630508,
+      "cacheReadTokens": 24725204,
+      "inputTokens": 41617,
+      "metadata": {
+        "agents": [
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreation1hTokens": 284681,
+          "cacheCreationTokens": 540376,
+          "cacheReadTokens": 22662525,
+          "cost": 10.716028,
+          "inputTokens": 420,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 131296
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 506240,
+          "cost": 0.170392,
+          "inputTokens": 41149,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 3747
+        },
+        {
+          "cacheCreation1hTokens": 0,
+          "cacheCreationTokens": 90132,
+          "cacheReadTokens": 1556439,
+          "cost": 0.038220189999999994,
+          "inputTokens": 48,
+          "modelName": "claude-haiku-5-5",
+          "outputTokens": 22769
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-5-5",
+        "claude-opus-5-5",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 157812,
+      "period": "2026-11-11",
+      "totalCost": 10.92464019,
+      "totalTokens": 25555141
     }
   ],
   "totals": {
-    "cacheCreationTokens": 183635395,
-    "cacheReadTokens": 8946904363,
-    "inputTokens": 35715395,
-    "outputTokens": 37885446,
-    "totalCost": 2953.551207601001,
-    "totalTokens": 9206822308
+    "cacheCreationTokens": 193380664,
+    "cacheReadTokens": 9352391307,
+    "inputTokens": 36197963,
+    "outputTokens": 40040934,
+    "totalCost": 3126.4394314660008,
+    "totalTokens": 9624692577
   },
   "tools": [
     [
       "Claude Code",
-      2892.482714801001
+      3063.7431290660006
     ],
     [
       "Codex",
-      60.48135419999999
+      62.10916379999999
     ],
     [
       "Gemini",
