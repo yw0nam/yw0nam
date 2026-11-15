@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-11-14T01:20:31.324Z",
+  "updatedAt": "2026-11-15T01:20:31.526Z",
   "daily": [
     {
       "agent": "all",
@@ -2758,7 +2758,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 236072,
-          "cost": 1.615983892,
+          "cost": 1.3600846000000002,
           "inputTokens": 8939118,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 73842
@@ -2801,7 +2801,7 @@
       ],
       "outputTokens": 427314,
       "period": "2026-05-06",
-      "totalCost": 27.76642739699998,
+      "totalCost": 27.51052810499998,
       "totalTokens": 56974083
     },
     {
@@ -2843,7 +2843,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.8599261300000001,
+          "cost": 0.71365606,
           "inputTokens": 4681529,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 58242
@@ -2867,7 +2867,7 @@
       ],
       "outputTokens": 451191,
       "period": "2026-05-07",
-      "totalCost": 38.94159884,
+      "totalCost": 38.79532877,
       "totalTokens": 47683418
     },
     {
@@ -2917,7 +2917,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.25190991,
+          "cost": 0.20942002,
           "inputTokens": 1346743,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 20876
@@ -2942,7 +2942,7 @@
       ],
       "outputTokens": 846878,
       "period": "2026-05-08",
-      "totalCost": 81.36434046000001,
+      "totalCost": 81.32185057000001,
       "totalTokens": 71149922
     },
     {
@@ -3041,7 +3041,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.11175258000000002,
+          "cost": 0.09278316,
           "inputTokens": 605694,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 7986
@@ -3057,7 +3057,7 @@
       ],
       "outputTokens": 461817,
       "period": "2026-05-11",
-      "totalCost": 41.740125029999994,
+      "totalCost": 41.72115561,
       "totalTokens": 66403966
     },
     {
@@ -3119,7 +3119,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.03330139,
+          "cost": 0.02771578,
           "inputTokens": 175877,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 3093
@@ -3135,7 +3135,7 @@
       ],
       "outputTokens": 549409,
       "period": "2026-05-12",
-      "totalCost": 55.415505740000036,
+      "totalCost": 55.40992013000004,
       "totalTokens": 52183893
     },
     {
@@ -3162,7 +3162,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.05173412,
+          "cost": 0.04324504,
           "inputTokens": 260286,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 6805
@@ -3184,7 +3184,7 @@
       ],
       "outputTokens": 59677,
       "period": "2026-05-13",
-      "totalCost": 1.6990830199999998,
+      "totalCost": 1.6905939399999996,
       "totalTokens": 6842343
     },
     {
@@ -3229,7 +3229,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.14172033,
+          "cost": 0.11768366,
           "inputTokens": 766769,
           "modelName": "Qwen3.6-35B-A3B-FP8",
           "outputTokens": 10336
@@ -3253,7 +3253,7 @@
       ],
       "outputTokens": 111990,
       "period": "2026-05-14",
-      "totalCost": 8.21290618,
+      "totalCost": 8.18886951,
       "totalTokens": 12417050
     },
     {
@@ -8389,7 +8389,7 @@
     "cacheReadTokens": 2934836197,
     "inputTokens": 153528113,
     "outputTokens": 20739978,
-    "totalCost": 2000.8897628272002,
+    "totalCost": 2000.3880227952,
     "totalTokens": 3252752090,
     "unpricedModels": [
       "chat_model"
@@ -8398,7 +8398,7 @@
   "tools": [
     [
       "Claude Code",
-      1606.3399390272002
+      1605.8381989952
     ],
     [
       "Codex",
