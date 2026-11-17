@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-11-16T01:20:21.797Z",
+  "updatedAt": "2026-11-17T01:20:31.492Z",
   "daily": [
     {
       "agent": "all",
@@ -8411,15 +8411,43 @@
       "period": "2026-11-15",
       "totalCost": 1.0006954,
       "totalTokens": 1670676
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "inputTokens": 7564,
+      "metadata": {
+        "agents": [
+          "antigravity"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.00731925,
+          "inputTokens": 7564,
+          "modelName": "gemini-3.8-flash-medium",
+          "outputTokens": 130
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash-medium"
+      ],
+      "outputTokens": 130,
+      "period": "2026-11-17",
+      "totalCost": 0.00731925,
+      "totalTokens": 8003
     }
   ],
   "totals": {
     "cacheCreationTokens": 142248317,
     "cacheReadTokens": 2936438654,
-    "inputTokens": 153528163,
-    "outputTokens": 20751199,
-    "totalCost": 2001.3887181952,
-    "totalTokens": 3254422766,
+    "inputTokens": 153535727,
+    "outputTokens": 20751329,
+    "totalCost": 2001.3960374452,
+    "totalTokens": 3254430769,
     "unpricedModels": [
       "chat_model"
     ]
@@ -8427,7 +8455,7 @@
   "tools": [
     [
       "Claude Code",
-      1606.8388943952
+      1606.8462136452
     ],
     [
       "Codex",
