@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "server-1",
-  "updatedAt": "2026-11-25T01:20:29.715Z",
+  "updatedAt": "2026-11-26T01:20:28.732Z",
   "daily": [
     {
       "agent": "all",
@@ -8299,15 +8299,44 @@
       "period": "2026-11-24",
       "totalCost": 0.6011662,
       "totalTokens": 858844
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 177195,
+      "cacheReadTokens": 4362797,
+      "inputTokens": 142,
+      "metadata": {
+        "agents": [
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreation1hTokens": 177195,
+          "cacheCreationTokens": 177195,
+          "cacheReadTokens": 4362797,
+          "cost": 2.9109674000000005,
+          "inputTokens": 142,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 31014
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5"
+      ],
+      "outputTokens": 31014,
+      "period": "2026-11-25",
+      "totalCost": 2.9109674000000005,
+      "totalTokens": 4571148
     }
   ],
   "totals": {
-    "cacheCreationTokens": 131185962,
-    "cacheReadTokens": 2497769394,
-    "inputTokens": 153515870,
-    "outputTokens": 19337097,
-    "totalCost": 1786.1442892038008,
-    "totalTokens": 2803072922,
+    "cacheCreationTokens": 131363157,
+    "cacheReadTokens": 2502132191,
+    "inputTokens": 153516012,
+    "outputTokens": 19368111,
+    "totalCost": 1789.0552566038007,
+    "totalTokens": 2807644070,
     "unpricedModels": [
       "chat_model",
       "muse-spark-1.2-contributor-free"
@@ -8316,7 +8345,7 @@
   "tools": [
     [
       "Claude Code",
-      1392.3210877338006
+      1395.2320551338007
     ],
     [
       "Codex",
